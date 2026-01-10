@@ -1,0 +1,2692 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Aa4QP6PsGOW4YztxbCovWxlMRrU",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLk5udEtsZ0s5Q3JJ",
+    "snippet": {
+      "publishedAt": "2025-10-22T13:05:42Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Stunfest 2025 Indies Trailer",
+      "description": "Trailer des jeux présents sur la zone indie du Stunfest 2025, festival des cultures du jeu vidéo à Rennes qui a lieu au 360 les 24-25-26 octobre 2025.\n\nPour retrouver la liste complète des jeux : https://indie.stunfest.com/2025/\nPour la liste des jeux sur Steam : https://store.steampowered.com/sale/stunfest-2025\nPour le programme complet du Stunfest : https://stunfest.com\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo. Elle participe à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nDans l'ordre d'apparition :\nIf Letters Had Pants, Would They Wear Them Like This? What About Numbers? What If They Had Small Shovels And They Dug Stuff Up To Put In A Museum? https://store.steampowered.com/app/3659750/If_Letters_Had_Pants_Would_They_Wear_Them_Like_This_What_About_Numbers_What_If_They_Had_Small_Shovels_And_They_Dug_Stuff_Up_To_Put_In_A_Museum/?curator_clanid=42527171\nSpikair Volleyball https://store.steampowered.com/app/1769270/Spikair_Volleyball/?curator_clanid=42527171\nFading Echoes https://cloudcastleaudio.itch.io/fading-echoes\nKabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/?curator_clanid=42527171\nCARIMARA - Beneath the forlorn limbs https://store.steampowered.com/app/3570370/CARIMARA_Beneath_the_forlorn_limbs/?curator_clanid=42527171\nSkateCat https://store.steampowered.com/app/2708010/SkateCat/?curator_clanid=42527171\nDOLOS: Your Best Future https://store.steampowered.com/app/2371240/DOLOS_Your_Best_Future/?curator_clanid=42527171\nBlêktre 2081 https://store.steampowered.com/app/3045400/Blktre_2081/?curator_clanid=42527171\nSuper reaKtor https://store.steampowered.com/app/3077190/Super_reaKtor/?curator_clanid=42527171\nChibi Monster Brawl https://dale-coop.itch.io/chibi-monster-br4wl-nes\nVersus In The Dark https://store.steampowered.com/app/3064240/Versus_in_the_Dark/?curator_clanid=42527171\nKimz VS Les Ragogo https://albatar-studio.itch.io/kimz-vs-les-ragogo\nBrumes https://yliader.itch.io/brumes\nMy Death as a Duchess https://store.steampowered.com/app/3989950/?curator_clanid=42527171\nCTHULOOT https://store.steampowered.com/app/2283410/CTHULOOT/?curator_clanid=42527171\nBeach Slap https://store.steampowered.com/app/3170110/Beach_Slap/?curator_clanid=42527171\nContenir https://store.steampowered.com/app/4037190/Contenir/?curator_clanid=42527171\nLifelong https://store.steampowered.com/app/2414990/Lifelong/?curator_clanid=42527171\nDeadCore Redux https://store.steampowered.com/app/3484260/DeadCore_Redux/?curator_clanid=42527171\nFUFUFU https://store.steampowered.com/app/2025050/FUFUFU/?curator_clanid=42527171\nVal Fortuna\nAppulse https://store.steampowered.com/app/3498700/Appulse/?curator_clanid=42527171\nKeep Crafting https://store.steampowered.com/app/3965290/?curator_clanid=42527171\nTrigger of Time https://store.steampowered.com/app/3209760/Trigger_of_Time/?curator_clanid=42527171\nCrackSword https://salmonellasalami.itch.io/cracksword\nFrontline Command https://store.steampowered.com/app/3349060/Frontline_Command/?curator_clanid=42527171\nLa Litière : Trigo https://store.steampowered.com/app/3288520/La_Litire_Trigo/?curator_clanid=42527171\nFrontline Survivors https://store.steampowered.com/app/2275220/Frontline_Survivors/?curator_clanid=42527171\nDie for a Die\nIridescent https://felixve.itch.io/iridescent\n\nCrédit audio : Escape from tomorrow - Danya Vodovoz",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NntKlgK9CrI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NntKlgK9CrI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NntKlgK9CrI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NntKlgK9CrI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NntKlgK9CrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NntKlgK9CrI"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "NntKlgK9CrI",
+      "videoPublishedAt": "2025-10-22T13:05:42Z"
+    },
+    "formattedTitle": "Stunfest 2025 Indies Trailer",
+    "type": "stunfest",
+    "duration": 172.384943
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WsuPjwSp078JSouTwFz35ox17jw",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnQ1M2xwS0ZUTWZZ",
+    "snippet": {
+      "publishedAt": "2025-09-04T08:01:03Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Quitter l'industrie du jeu vidéo - Avec Simon Chatelus et Théo Vart | Indie & Co",
+      "description": "Après un passage dans le milieu de l'industrie du jeu vidéo, Simon et Théo ont choisi tous deux d'en  sortir. Le premier enseigne le game design dans une école, le second a fondé son studio indépendant, Rebel Pixel, et développe actuellement un space opera : Stardream.\nSimon et Théo, de passage pour ADDON, sont revenus sur leurs parcours respectifs dans le milieu de la création de jeux vidéo.\n\nStardream : https://store.steampowered.com/app/3654740/Stardream/?curator_clanid=4252717\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n4:00    Medal of Honor Resistance https://fr.wikipedia.org/wiki/Medal_of_Honor_:_R%C3%A9sistance\n4:13    Spider-Man 2 PS1 https://fr.wikipedia.org/wiki/Spider-Man_2_%3A_La_Revanche_d%27Electro\n4:17    Rayman 1 PC https://fr.wikipedia.org/wiki/Rayman_(jeu_vid%C3%A9o)\n4:45    Asterix & Obélix XXL GBA https://fr.wikipedia.org/wiki/Ast%C3%A9rix_%26_Ob%C3%A9lix_XXL\n4:53    Pokémon Rubis https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rubis_et_Saphir\n7:23    Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/?curator_clanid=4252717\n7:24    FEZ https://store.steampowered.com/app/224760/FEZ/?curator_clanid=4252717\n7:25    Braid https://store.steampowered.com/app/26800/Braid/?curator_clanid=4252717\n8:04    Journey https://store.steampowered.com/app/638230/Journey/?curator_clanid=4252717\n8:04    Limbo https://store.steampowered.com/app/48000/Limbo/?curator_clanid=4252717\n10:36   Stuntman https://fr.wikipedia.org/wiki/Stuntman\n10:46   Immortality https://store.steampowered.com/app/1350200/IMMORTALITY/?curator_clanid=4252717\n11:18   GTA5 outil cinematique https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?curator_clanid=4252717\n12:22   Xavier Lardy https://www.xavierlardy.fr/\n12:33   machinima.fr\n14:00   Knit’s Island tourné dans le jeu DayZ https://www.film-documentaire.fr/4DACTION/w_fiche_film/68070_2\n15:12   Roblox https://fr.wikipedia.org/wiki/Roblox\n15:13   Minecraft https://www.minecraft.net/fr-fr\n15:26   Overwatch \n15:50   Little Big Planet PSP https://fr.wikipedia.org/wiki/Little_Big_Planet_(jeu_vid%C3%A9o,_2009)\n16:21   Mario Maker https://fr.wikipedia.org/wiki/Super_Mario_Maker\n16:40   Dreams https://fr.wikipedia.org/wiki/Dreams_(jeu_vid%C3%A9o,_2020)\n18:00   Unreal Tournament https://fr.wikipedia.org/wiki/Unreal_Tournament\n18:06   Half-Life https://store.steampowered.com/app/70/HalfLife/?curator_clanid=4252717\n18:10   Valve Hammer\n18:52   Renpy https://www.renpy.org/\n19:00   RPG Maker https://store.steampowered.com/app/363890/RPG_Maker_MV/?curator_clanid=4252717\n32:16   Subway surfers https://fr.wikipedia.org/wiki/Subway_Surfers\n34:40   Hyper Scape https://fr.wikipedia.org/wiki/Hyper_Scape\n34:41   Concord https://www.playstation.com/en-us/games/concord\n35:40   Deadlock https://store.steampowered.com/app/1422450/Deadlock/?curator_clanid=4252717\n40:35   Asterix Vidi Vici\n45:24   Agatha Christie : Le Crime de l’Orient Express    https://store.steampowered.com/app/1904790/Agatha_Christie__Le_Crime_de_lOrientExpress/?curator_clanid=4252717\n46:07   Stardream https://store.steampowered.com/app/3654740/Stardream/?curator_clanid=4252717\n59:12   En Garde! https://fr.wikipedia.org/wiki/En_Garde!_(jeu_vid%C3%A9o)\n59:21   Symphonia https://store.steampowered.com/app/1865960/Symphonia/?curator_clanid=4252717\n1:09:21  TyGames https://ty.games/\n1:12:44  Scientific Game Jam https://www.scientificgamejam.org/\n1:19:06  SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/?curator_clanid=4252717\n1:19:16  Phoenix Wrong https://akamis.itch.io/phoenix-wrong\n1:20:37  Castle Game Jam https://discord.gg/JuemGJw\n1:20:57  Epic Game Jam https://epicgamejam.com/\n\nChapitres\n0:00 Extrait\n0:48 Intro\n3:30 Les premiers jeux\n7:10 Jeux indés avant de créer\n9:50 Le cinéma dans le JV et inversement\n14:36 Création de jeu dans les jeux\n23:32 Passage par des écoles JV et volonté de s’orienter dans le JV\n27:03 Orientation vers le travail\n30:03 Jeux hypercasuals, tendances et outils simples pour débuter\n39:55 Les mauvaises conditions de l’industrie\n46:00 Stardream, un jeu space opera par Rebel Pixel\n55:44 Scoper son jeu efficacement\n1:09:56 Gamedev Party et philosophie des game jams \n1:25:10 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t53lpKFTMfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t53lpKFTMfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t53lpKFTMfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t53lpKFTMfY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t53lpKFTMfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t53lpKFTMfY"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "t53lpKFTMfY",
+      "videoPublishedAt": "2025-09-04T08:01:03Z"
+    },
+    "formattedTitle": "Quitter l'industrie du jeu vidéo - Avec Simon Chatelus et Théo Vart | Indie & Co",
+    "type": "podcast",
+    "duration": 5236.471293
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "nS-QwPVTkufKXQU4qtEcieScNbU",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmM3UmtQWXV6bkE4",
+    "snippet": {
+      "publishedAt": "2025-07-20T16:01:02Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Les JEUX jazzy de la BBQ Jam 2025 🌶️",
+      "description": "** petit problème de son au début, mais ça s'arrange ensuite **\n\nLes 4-5-6 juillet 2025 a eu lieu la 3ème édition de la BBQ Jam organisée par Indie Collective à Rennes à La Maison du Jeu Vidéo. Initialement prévue 2 semaines auparavant pendant la fête de la musique, la vague de chaleur caniculaire nous a obligé à repousser l'événement mais une vingtaine de jammers ont quand même pu se réunir pour déguster galettes saucisses, merguez, aubergines, et autres poivrons cuits au barbecue pour ainsi créer 5 magnifiques jeux vidéo sur le thème d'un enregistrement jazz d'un club créé à Rennes en 1941 sous l'occupation et se retrouvant régulièrement pour jouer différentes compositions, réédité en 2021 par un label rennais 3615 Records.\n\nVous pouvez retrouver et écouter \"Breizonec Blues\" du Hot Club de Rennes sur la page bandcamp du label : https://3615records.bandcamp.com/track/breizonec-blues\n\nLa Maison du Jeu Vidéo de Rennes est un lieu associatif ouvert au public à partir de septembre 2023 et se voulant représentatif de toutes les pratiques du jeu vidéo que l'on peut trouver qu'elles soient artistiques, éducatives, associatives, lucratives ou non...\n➡️ Plus d'informations sur le lieu : https://lamaisondujeuvideo.com\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\net tous vos autres réseaux préférés\n\nRestitution diffusée le dimanche 6 juillet 2025 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n1:05 Thème de la jam : \"Breizonec Blues\" du Hot Club de Rennes\n1:52 Contexte du choix du thème\n3:08 Intervention de Lionel de 3615 Records\n9:53 The oldfashioned\n15:05 Minitel Surfer\n20:30 C'est ma tournée (avec jean michel jazz)\n26:13 Rhythm City\n34:11 Jeu VR\n37:55 Conclusion\n\n#gamejam #indie #rennes #bbqjam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c7RkPYuznA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c7RkPYuznA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c7RkPYuznA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c7RkPYuznA8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c7RkPYuznA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c7RkPYuznA8"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "c7RkPYuznA8",
+      "videoPublishedAt": "2025-07-20T16:01:02Z"
+    },
+    "formattedTitle": "Les JEUX jazzy de la BBQ Jam 2025",
+    "type": "jam",
+    "duration": 2403.033107
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "dIO4A4e1io-0ku8uB9EVWwvF-Sk",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkI5RjJwODNuMUR3",
+    "snippet": {
+      "publishedAt": "2025-06-18T13:00:31Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Les choix CRUCIAUX du développeur - Avec Guillaume Tinon | Indie & Co",
+      "description": "Destiné d’abord à un tout autre parcours, Guillaume Tinon s’est lancé, sans expérience, dans le développement de Psycho Starship Rampage, un space shooter rogue-like qui n’a finalement pas soulevé les foules. Fort de cette experience, il a filé des coups de main dans divers studios avant de se lancer dans un mystérieux projet qui devrait bientôt voir le jour… Retour sur les choix cruciaux à faire au tout début d’un projet et l’important du playtest dans le développement de son jeu vidéo.\n\nSon Twitter / X : https://twitter.com/SporadicFoobar\nSon Bluesky : https://bsky.app/profile/sporadicfoobar.bsky.social\nSon jeu : https://store.steampowered.com/app/3791850/Instruments_of_Power/?curator_clanid=42527171\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n1:56 Alex Kidd in Miracle World https://fr.wikipedia.org/wiki/Alex_Kidd_in_Miracle_World\n5:23 Non-Virtual Reality Game (pas trouvé, peux-tu préciser ?)\n6:20 Vagrant Story https://fr.wikipedia.org/wiki/Vagrant_Story\n7:12 FIFA https://fr.wikipedia.org/wiki/FIFA_(s%C3%A9rie_de_jeux_vid%C3%A9o)\n7:18 Soul Edge https://fr.wikipedia.org/wiki/Soul_Edge\n7:40 Alerte Rouge https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/?curator_clanid=42527171\n7:43 Morrowind https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/?curator_clanid=42527171\n8:56 Skywind https://tesrskywind.com/\n9:02 Fallout Mods https://www.nexusmods.com/fallout4\n9:17 Fallout New Vegas https://store.steampowered.com/app/22380/Fallout_New_Vegas/?curator_clanid=42527171\n12:02 Fallout London https://falloutlondon.com/\n16:14 OGame https://www.ogame.org/\n16:30 Travian https://www.travian.com/fr\n18:32 Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=42527171\n21:10 Steredenn https://store.steampowered.com/app/333180/Steredenn/?curator_clanid=42527171\n26:46 Bioshock https://store.steampowered.com/app/7670/BioShock/?curator_clanid=42527171\n27:28 Toaster Ball https://store.steampowered.com/app/1209610/Toasterball/?curator_clanid=42527171\n30:18 Papers Please https://store.steampowered.com/app/239030/Papers_Please/?curator_clanid=42527171\n31:25 Psycho Starship Rampage https://store.steampowered.com/app/373720/Psycho_Starship_Rampage/?curator_clanid=42527171\n31:53 Pharaoh : A New Era https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/?curator_clanid=42527171\n44:37 Mass Effect : Legendary Edition https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/?curator_clanid=42527171\n45:20 Minecraft https://www.minecraft.net/\n50:38 Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/?curator_clanid=42527171\n1:08:30 Monument Valley 3 https://www.ustwogames.co.uk/games/monument-valley-3\n1:10:00 Half-Life 2 RTX https://store.steampowered.com/app/2477290/HalfLife_2_RTX/?curator_clanid=42527171\n\nChapitres\n0:00 Extrait\n0:48 Intro\n1:28 Premiers jeux vidéo\n2:50 Quels contrôleurs pour jouer\n6:08 Les jeux marquants\n13:06 Études et premières lignes de code\n17:26 Premier jeu : Psycho Starship Rampage\n22:00 Les choix cruciaux pour faire un jeu / Game jam pour brainstorm = mauvaise idée ?\n28:22 Le besoin de manger\n30:37 Passage chez Triskell Interactive\n33:03 De l’importance du playtest\n43:15 Modes et industrie\n49:10 Les grands noms du jeu vidéo\n55:33 Le projet : un tactical crafting de sort\n1:06:01 Pourquoi on fait des jeux ?\n1:10:13 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B9F2p83n1Dw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B9F2p83n1Dw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B9F2p83n1Dw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B9F2p83n1Dw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B9F2p83n1Dw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "B9F2p83n1Dw"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "B9F2p83n1Dw",
+      "videoPublishedAt": "2025-06-18T13:00:31Z"
+    },
+    "formattedTitle": "Les choix CRUCIAUX du développeur - Avec Guillaume Tinon | Indie & Co",
+    "type": "podcast",
+    "duration": 4334.399274
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "uHls7Y3c_FVg8RrxITtamWmN5iE",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmoxRTRjcXduVzVF",
+    "snippet": {
+      "publishedAt": "2025-06-01T16:01:06Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Les JEUX de la JAM européenne : Babel Game Jam à Rennes",
+      "description": "Restitution des jeux créés lors de l'édition rennaise de la Babel Game Jam qui s'est déroulée du 8 au 13 avril 2025 à l'Hôtel Pasteur.  Une dizaine de jeux ont été créés sur le thème de l'interculturalité, des langues et des thématiques citoyennes par des équipes internationales venues de Rennes et de Terrassa, près de Barcelone en Espagne.\n\nPour retrouver la liste des jeux : https://itch.io/jam/babel-game-jam-rennes/entries\nEt pour la liste complète Babel Game Jam : https://itch.io/c/5648333/babel-game-jam-rennes-terrassa\n\nBabel Game Jam est un projet financé par le programme Erasmus+ de 2 game jams internationales se déroulant à Rennes en avril 2025 et à Terrassa, près de Barcelone, en mai 2025. Il réunit 14 jeunes français.es et 14 jeunes espagnol.e.s pour les sensibiliser aux thématiques interculturelles et linguistiques à travers la création de jeux vidéo pendant 5 jours.\n\nVoir l'aftermovie de l'événement : https://www.youtube.com/watch?v=sQxLDY8Epqk\nEt peut-être qu'on sortira un mini-reportage avec toutes les images qu'on a faites pendant la semaine. ;)\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de l'organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nPrésentation diffusée le dimanche 13 avril 2025 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n00:00 Introduction\n8:33 Aliens (no sound)\n12:17 100 Village\n16:19 Alien Language Drivethrough\n20:34 The Multifaceted Interview\n32:12 Un Pas En Avant Concept\n40:41 The Bottomless Pete\n46:50 The Dictator\n55:27 Unruled\n1:01:39 The Morse Crossing\n1:07:15 Concept Jeu de Cuisine\n1:11:02 Wrong Settings\n1:13:32 La suite & Remerciements\n1:18:46 Présentation Babel Game Jam Terrassa\n1:31:22 Conclusion\n\n#babelgamejam #gamejam #rennes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j1E4cqwnW5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j1E4cqwnW5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j1E4cqwnW5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j1E4cqwnW5E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j1E4cqwnW5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j1E4cqwnW5E"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "j1E4cqwnW5E",
+      "videoPublishedAt": "2025-06-01T16:01:06Z"
+    },
+    "formattedTitle": "Les JEUX de la JAM européenne : Babel Game Jam à Rennes",
+    "type": "jam",
+    "duration": 5596.05551
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Ki5y2_s4WegmkEStb9fBsfQgfN4",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnNReExEWThFcHFr",
+    "snippet": {
+      "publishedAt": "2025-05-06T08:27:13Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Aftermovie Babel Game Jam Rennes",
+      "description": "Édition rennaise de la Babel Game Jam qui s'est déroulée du 8 au 13 avril 2025 à l'Hôtel Pasteur.  Une dizaine de jeux ont été créés sur le thème de l'interculturalité, des langues et des thématiques citoyennes par des équipes internationales venues de Rennes et de Terrassa, près de Barcelone en Espagne.\n\nPour retrouver la liste des jeux : https://itch.io/jam/babel-game-jam-rennes/entries\n\nBabel Game Jam est un projet financé par le programme Erasmus+ de 2 game jams internationales se déroulant à Rennes en avril 2025 et à Terrassa, près de Barcelone, en mai 2025. Il réunit 14 jeunes français.es et 14 jeunes espagnol.e.s pour les sensibiliser aux thématiques interculturelles et linguistiques à travers la création de jeux vidéo pendant 5 jours.\n\nLa restitution des jeux sortira bientôt.\nEt peut-être qu'on sortira un mini-reportage avec toutes les images qu'on a faites pendant la semaine. ;)\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de l'organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\n#babelgamejam #gamejam #rennes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sQxLDY8Epqk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sQxLDY8Epqk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sQxLDY8Epqk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sQxLDY8Epqk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sQxLDY8Epqk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sQxLDY8Epqk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "sQxLDY8Epqk",
+      "videoPublishedAt": "2025-05-06T08:27:13Z"
+    },
+    "formattedTitle": "Aftermovie Babel Game Jam Rennes",
+    "type": "jam",
+    "duration": 105.325714
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "3zp1VvvaxJb7K169Q_0WCkoEEZ0",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLm9BTHFOenotV0Rr",
+    "snippet": {
+      "publishedAt": "2025-04-22T13:01:27Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "La SECRET SAUCE pour faire un JEU VIDÉO - Avec Vincent Beauzee | Indie & Co",
+      "description": "Vincent Beauzee, à travers son parcours de joueur et de développeur, livre dans cet épisode sa vision de l’appréciation et les manières d’aborder les jeux vidéo. Il revient sur ses débuts et les erreurs de design qu’il a pu faire pendant le développement de son premier jeu Psycho Starship Rampage, sorti en 2015 et nous présente DeathTower, le dernier projet sur lequel il travaille avec le Headbang Club (@headbang_club).\n\nSon Twitter / X : https://x.com/VincentBeauzee\nSon Bluesky : https://bsky.app/profile/torpenngames.bsky.social\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n2:11 Astérix & Obélix (Game Boy) https://fr.wikipedia.org/wiki/Astérix_et_Obélix_(jeu_vidéo)\n2:38 Zelda 2\n3:53 CD demo PlayStation\n4:02 XTrem Games\n4:07 Ridge Racers\n4:18 Crash Bandicoot\n6:01 Age of Empires\n6:23 Age of Empires 2\n6:33 Starcraft\n7:40 Double Dragon\n7:42 Tortues Ninja\n7:46 Mario Kart\n7:48 R-Type\n7:52 Killer Instinct\n8:23 Final Fantasy X\n8:30 Dragon Quest\n8:38 Resident Evil 4 https://store.steampowered.com/app/2050650/Resident_Evil_4/?curator_clanid=42527171\n9:28 Mario Kart Double Dash\n9:49 Super Smash Bros\n11:08 Morrowind https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/?curator_clanid=42527171\n11:29 World of Warcraft\n11:43 Guild Wars\n12:18 Soul Calibur\n12:58 Discworld Noir https://en.wikipedia.org/wiki/Discworld_Noir\n14:56 Chants of Sennaar https://store.steampowered.com/app/1931290/Chants_of_Sennaar/?curator_clanid=42527171\n16:41 Tennis (Game Boy) https://en.wikipedia.org/wiki/Tennis_(1989_video_game)\n16:55 Zelda Link’s Awakening\n17:45 Dark Souls\n21:49 Mass Effect Legendary\n22:45 Zelda Breath of the Wild\n25:03 Outer Wilds https://store.steampowered.com/app/753640/Outer_Wilds/?curator_clanid=42527171\n25:29 Myst https://store.steampowered.com/app/1255560/Myst/?curator_clanid=42527171\n26:19 Elden Ring https://store.steampowered.com/app/1245620/ELDEN_RING/?curator_clanid=42527171\n29:39 Vampire Survivors https://store.steampowered.com/app/1794680/Vampire_Survivors/?curator_clanid=42527171\n36:09 Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=42527171\n39:28 Psycho Starship Rampage https://store.steampowered.com/app/377270/Psycho_Starship_Rampage/?curator_clanid=42527171\n40:55 Steredenn https://store.steampowered.com/app/336240/Steredenn/?curator_clanid=42527171\n43:02 Minecraft\n43:23 Slay The Spire https://store.steampowered.com/app/646570/Slay_the_Spire/?curator_clanid=42527171\n44:27 XCOM https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/?curator_clanid=42527171\n46:41 Psychonauts https://store.steampowered.com/app/3830/Psychonauts/?curator_clanid=42527171\n57:14 Pharaoh : A New Era https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/?curator_clanid=42527171\n1:00:14 Headbang Club\n1:00:51 Motion Twin\n1:01:07 Metal Slug Tactics https://store.steampowered.com/app/1590760/Metal_Slug_Tactics/?curator_clanid=42527171\n1:03:16 Final Fantasy Tactics https://en.wikipedia.org/wiki/Final_Fantasy_Tactics\n1:03:25 Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/?curator_clanid=42527171\n1:03:36 Death Tower https://store.steampowered.com/app/1143910/DeathTower/?curator_clanid=42527171\n1:09:49 TyGames https://ty.games\n1:16:37 PathBlasters https://store.steampowered.com/app/2641520/PathBlasters/?curator_clanid=42527171\n1:21:15 Kubits Gallery https://store.steampowered.com/app/2536610/Kubits_Gallery/?curator_clanid=42527171\n1:21:50 Knight Bar Fight https://store.steampowered.com/app/2560430/Knight_Bar_Fight/?curator_clanid=42527171\n1:23:11 Cloudy Valley https://store.steampowered.com/app/2541310/Cloudy_Valley/?curator_clanid=42527171\n1:25:53 Take The King https://store.steampowered.com/app/2524230/Take_The_King/?curator_clanid=42527171\n1:37:43 ADDON / GameConf / GameCamp\n\nChapitres\n0:00 Extrait\n0:47 Intro\n1:24 Premiers pas dans le JV\n11:03 Jeux marquants\n26:19 Comment un jeu doit être joué\n29:13 Psycho Starship Rampage / Ballistic Frogs\n48:27 Freelance sur Pharaoh : A New Era\n57:14 Headbang Club\n1:36:37 Les prochains projets de TyGames\n1:39:04 Mot de la fin\n1:40:30 Conclusion\n\n#podcast #indieandco #deathtower",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oALqNzz-WDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oALqNzz-WDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oALqNzz-WDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oALqNzz-WDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oALqNzz-WDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oALqNzz-WDk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "oALqNzz-WDk",
+      "videoPublishedAt": "2025-04-22T13:01:27Z"
+    },
+    "formattedTitle": "La SECRET SAUCE pour faire un JEU VIDÉO - Avec Vincent Beauzee | Indie & Co",
+    "type": "podcast",
+    "duration": 6110.354286
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "zwn48jLD1fQj88vbDqaCSepqUNg",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmJLNG1kRFowVUJv",
+    "snippet": {
+      "publishedAt": "2025-02-25T13:30:23Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Retranscrire l'Histoire et la végétation dans les jeux vidéo - Avec Edwige Lelièvre | Indie & Co",
+      "description": "Après des années de recherche sur les MMO à l'INREV de Paris 8 et un passage dans l'industrie, Edwige s'est lancée en indépendante avec un projet de jeu cozy, The Abbess Garden, mêlant jardinage et contenu historique avec un objectif : redéfinir la place de la végétation dans les jeux.\n\nSon Twitter : https://twitter.com/edwigelel\nSon Bluesky : https://bsky.app/profile/edwigelel.bsky.social\n\nPour s'inscrire à l'alpha test du jeu : https://theabbessgarden.eo.page/newsletter\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n2:35 TO7\n4:37 Activity Center : Lion King https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=3107\n4:45 Barbie Styliste https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=3393\n5:43 Little Big Adventure https://fr.wikipedia.org/wiki/Little_Big_Adventure\n5:45 Caesar III https://store.steampowered.com/app/517790/Caesar_3/?curator_clanid=42527171\n5:48 Heroes of Might and Magic III    https://store.steampowered.com/app/297000/Heroes_of_Might__Magic_III__HD_Edition/?curator_clanid=42527171\n5:57 Creatures https://store.steampowered.com/app/292190/Creatures_Exodus/?curator_clanid=42527171\n8:27 Ultima Online https://uo.com/\n8:33 T4C / The 4th Coming / La Quatrième Prophétie https://www.t4c.com/\n8:45 Dark Age of Camelot https://darkageofcamelot.com/\n13:02 INREV https://inrev.univ-paris8.fr/\n16:37 Ghost Invaders / Les Mystères de la Basilique \n23:17 OFabulis \n26:07 La végétation dans Assassin’s Creed https://www.youtube.com/watch?v=2Rr8-KVghxE\n31:46 Gamabilis\n34:42 Aaaah! https://atelier801.fandom.com/wiki/Aaaah!\n35:44 Eve Online https://www.eveonline.com/fr\n35:56 World of Warcraft http://worldofwarcraft.blizzard.com/fr-fr/\n37:50 Call of Duty https://store.steampowered.com/franchise/call-of-duty/?curator_clanid=42527171\n40:58 Halo https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?curator_clanid=42527171\n41:26  Pokémon Go https://www.pokemongo.com/fr-fr/\n41:32  Marvel Snap https://www.marvelsnap.com/\n44:14  Second Life https://secondlife.com/\n45:07 Star Wars Galaxies https://fr.wikipedia.org/wiki/Star_Wars_Galaxies\n45:14 Star Wars: The Old Republic https://www.swtor.com/fr\n45:44 Age of Conan https://fr.wikipedia.org/wiki/Age_of_Conan:_Hyborian_Adventures\n45:46 Warhammer Online https://fr.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning\n48:44 Roblox https://corp.roblox.com/fr\n51:59 The Abbess Garden https://store.steampowered.com/app/3411970/The_Abbess_Garden/?curator_clanid=42527171\n56:01 Animal Crossing    https://www.nintendo.fr/Jeux/Nintendo-Switch/Animal-Crossing-New-Horizons-1438623.html\n56:19 SpeedTree https://unity.com/fr/products/speedtree\n58:06 Stardew Valley https://store.steampowered.com/app/413150/Stardew_Valley/?curator_clanid=42527171\n58:58 Gamers Like It Green https://mnhn.hal.science/mnhn-02323380\n59:57 Lawn Mowing Simulator    https://store.steampowered.com/app/1480560/Lawn_Mowing_Simulator/?curator_clanid=42527171\n1:00:26 GTA V https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?curator_clanid=42527171\n1:01:34 Morrowind https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/?curator_clanid=42527171\n1:01:32 Oblivion https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/?curator_clanid=42527171\n1:03:55 Tevi \n1:05:32 I was an exo teenage colonist https://store.steampowered.com/app/1148760/I_Was_a_Teenage_Exocolonist/?curator_clanid=42527171\n1:07:30 Civilization https://store.steampowered.com/franchise/Civilization/?curator_clanid=42527171\n1:09:17 Love and Pies https://loveandpies.com/\n1:11:45 We harvest Shadows https://store.steampowered.com/app/1559720/We_Harvest_Shadows/?curator_clanid=42527171\n1:13:59 Spiritfarer https://store.steampowered.com/app/972660/Spiritfarer_dition_Farewell/?curator_clanid=42527171\n1:23:12 Blue Bird Song https://store.steampowered.com/app/2566490/Blue_Birds_Song/?curator_clanid=42527171\n\nChapitres\n0:00 Extrait\n1:00 Intro\n1:47 Premiers souvenirs de jeux\n9:00 Études et thèse liée au jeu vidéo\n16:02 Un des projets de thèse : Les Mystères de la Basilique\n23:12 OFabulis et la végétation dans les jeux\n31:32 Les spécificités des MMOs (et pourquoi on ne commence pas par là)\n50:58 The Abbess Garden, jardiner autrement\n1:29:47 Conclusion\n\n#podcast #indieandco #cozygames",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bK4mdDZ0UBo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bK4mdDZ0UBo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bK4mdDZ0UBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bK4mdDZ0UBo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bK4mdDZ0UBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bK4mdDZ0UBo"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "bK4mdDZ0UBo",
+      "videoPublishedAt": "2025-02-25T13:30:23Z"
+    },
+    "formattedTitle": "Retranscrire l'Histoire et la végétation dans les jeux vidéo - Avec Edwige Lelièvre | Indie & Co",
+    "type": "podcast",
+    "duration": 3699.902404
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "vovRDPBoDaqpKRr45Pe5rpqciRE",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjVOYzdCb0lNZTdz",
+    "snippet": {
+      "publishedAt": "2025-02-12T16:00:09Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌍 Les JEUX de la Global Game Jam 2025 !",
+      "description": "Restitution des jeux créés lors de la Global Game Jam 2025, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne.\n\nVoir la vidéo de lancement : https://youtu.be/yLnIdOR_vKs\nBonus tiers-lists CLIVANTES du week-end : https://youtu.be/xYhldq65jwI\nRetrouvez aussi la Jam Session de 3 Hit Machine : https://www.youtube.com/watch?v=or3M94UfrLI\n\nPour retrouver la liste des jeux : https://globalgamejam.org/group/11527/games\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de l'organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nPrésentation diffusée le dimanche 26 janvier 2025 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n00:00 Introduction\n01:54 Bubble Race\n09:06 ScorePop!\n12:50 Floaty Bulle\n18:10 CO2\n23:45 Bulledozer\n27:00 OPUS\n31:38 Cyberpaic : Recycle To Survive\n35:20 Bubble Rumble\n37:35 Shitty Bubble Toy Quest\n42:10 Bienvenue à Blème\n46:53 Bulleversant\n53:28 Conclusion\n\n#globalgamejam #gamejam #indie #rennes #ggj #ggj25",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Nc7BoIMe7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Nc7BoIMe7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Nc7BoIMe7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Nc7BoIMe7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Nc7BoIMe7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Nc7BoIMe7s"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "5Nc7BoIMe7s",
+      "videoPublishedAt": "2025-02-12T16:00:09Z"
+    },
+    "formattedTitle": "Les JEUX de la Global Game Jam 2025",
+    "type": "jam",
+    "duration": 3383.704671
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "OC46cdkrw1LAMHgxxWIOuIWBvkA",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnhZaGxkcTY1andJ",
+    "snippet": {
+      "publishedAt": "2025-02-06T16:00:57Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Les tiers-lists CLIVANTES de la GGJ 2025 : pâtes, sauces, pizzas, jeux indés...",
+      "description": "Tous nos avis catastrophiques, clivants, tranchés et pas toujours rationnels. On a fait des tiers-lists histoire d'animer le stream pendant la Global Game Jam 2025, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne.\nPeut-être que c'est un peu inutile de poster ça, mais pourquoi pas ?\n\nVoir la vidéo de lancement : https://youtu.be/yLnIdOR_vKs\nDécouvrir les JEUX créés pendant le week-end : https://youtu.be/5Nc7BoIMe7s\nRetrouvez aussi la Jam Session de 3 Hit Machine : https://youtu.be/or3M94UfrLI\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de la co-organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nDiffusé le samedi 25 janvier 2025 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n00:00 Intro\n01:34 Tiers-list Pâtes\n32:15 Tiers-list Plats en Sauces\n1:04:10 Tiers-list Pizzas\n1:21:10 Tiers-list Jeux Indés\n\n#gamejam #indie #rennes #ggj #globalgamejam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xYhldq65jwI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xYhldq65jwI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xYhldq65jwI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xYhldq65jwI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xYhldq65jwI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xYhldq65jwI"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "xYhldq65jwI",
+      "videoPublishedAt": "2025-02-06T16:00:57Z"
+    },
+    "formattedTitle": "Les tiers-lists CLIVANTES de la GGJ 2025 : pâtes sauces pizzas jeux indés",
+    "type": "jam",
+    "duration": 6865.026032
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "UZ52hY9d3EzWiLAHKD_k-GJoabk",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnJVMS1KaklvMnhz",
+    "snippet": {
+      "publishedAt": "2024-12-28T09:01:00Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "La création de FANGAMES et d'AVATARS pour VTUBERS - Avec Jérôme Bretheau (MonAmiral) | Indie & Co",
+      "description": "Jérôme Bretheau alias @monamiral1690 est développeur indépendant et lorsqu’il ne publie pas des jeux et des fangames sur itch.io, il crée des modèles et du fanart pour des VTubers célèbres. Il revient sur son parcours particulier où un burnout l’a amené dans l’univers de ces créateurs virtuels.\n\nLe itch.io de Jérôme : https://callmemonamiral.itch.io\nSon Twitter pro : https://twitter.com/monamiralgames\nSon Bluesky : https://bsky.app/profile/monamiral.bsky.social\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nBluesky : https://bsky.app/profile/indieco.xyz\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n3:32 Outer Wilds https://store.steampowered.com/app/753640/Outer_Wilds/?curator_clanid=42527171\n3:43 Doshin the Giant https://fr.wikipedia.org/wiki/Doshin_the_Giant\n6:30 Zelda Windwaker https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker\n8:10 Klik & Play https://www.myabandonware.com/game/klik-play-fxl\n8:57 Lego Racer https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2840\n9:28 Ski Free https://fr.wikipedia.org/wiki/SkiFree\n10:55 Clickteam Fusion 2.5 https://store.steampowered.com/app/248170/Clickteam_Fusion_25/\n11:44 League of Legends https://www.leagueoflegends.com\n12:54 Endless Space 2 https://store.steampowered.com/app/392110/ENDLESS_Space_2/?curator_clanid=42527171\n13:40 Endless Dungeon https://store.steampowered.com/app/1485590/ENDLESS_Dungeon/?curator_clanid=42527171\n16:02 VR Chat https://hello.vrchat.com\n23:08 Iron Mouse (Vtuber) https://www.twitch.tv/ironmouse\n27:56 BuffPup (Vtuber) https://www.twitch.tv/buffpup\n30:06 Site outfits de Iron mouse https://www.ironmousemodelindex.com/\n33:54 Gooba Ball https://store.steampowered.com/app/2878140/Gooba_Ball/?curator_clanid=42527171\n34:03 Pocket Waifu Desktop Pet https://store.steampowered.com/app/2989820/Pocket_Waifu_Desktop_Pet/?curator_clanid=42527171\n36:20 Tomb Robbing with Friends https://store.steampowered.com/app/1931870/Tomb_Robbing_with_Friends/?curator_clanid=42527171\n37:45 Cthuloot https://store.steampowered.com/app/2283410/CTHULOOT/?curator_clanid=42527171\n41:52 Crashed Bandicoot https://callmemonamiral.itch.io/crashed-bandicoot\n42:50 One game a month jam https://www.onegameamonth.com\n42:37 Ludum Dare https://ludumdare.com\n44:12 Doguelike https://callmemonamiral.itch.io/doguelike\n44:20 Ducktective https://callmemonamiral.itch.io/ducktective\n44:42 UFO 50 https://store.steampowered.com/app/1147860/UFO_50/?curator_clanid=42527171\n46:45 Mega Skater Boulzor Turbo Deluxe https://callmemonamiral.itch.io/msbtd\n49:41 Birb Doop https://callmemonamiral.itch.io/birb-doop\n55:52 https://www.youtube.com/watch?v=34NVLRHsxSU et https://www.youtube.com/watch?v=oBrkdcVam4U\n\nChapitres\n0:00 Extrait\n0:45 Intro\n2:24 Les jeux qui ont marqué\n5:26 Premiers pas dans le JV\n7:56 Lancement dans le dev de jeux\n12:38 Débuts à Amplitude Studio\n14:00 Lancement en indépendant\n18:33 Création de modèles et mocap pour vtubers\n22:25 Le phénomène des vtubers\n32:23 Création de fangames\n35:53 Retour aux jeux classiques\n41:00 Jeux courts et game jams\n50:24 La suite ?\n52:56 Game jams à venir et communautés\n56:20 Conclusion\n\n#podcast #indieandco #vtuber",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rU1-JjIo2xs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rU1-JjIo2xs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rU1-JjIo2xs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rU1-JjIo2xs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rU1-JjIo2xs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rU1-JjIo2xs"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "rU1-JjIo2xs",
+      "videoPublishedAt": "2024-12-28T09:01:00Z"
+    },
+    "formattedTitle": "La création de FANGAMES et d'AVATARS pour VTUBERS - Avec Jérôme Bretheau (MonAmiral) | Indie & Co",
+    "type": "podcast",
+    "duration": 3469.943583
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Ae4yFj2CuDG029P3ejxJ0sqmy-w",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkh2S1IzVldoaE4w",
+    "snippet": {
+      "publishedAt": "2024-11-02T16:00:20Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "👻 Les JEUX de l'OCTOJAM 2024 ! (et 0h game jam)",
+      "description": "Les 25-26-27 octobre 2024 a eu lieu l'Octojam 2024 organisée par Indie Collective dans La Maison du Jeu Vidéo de Rennes. Une vingtaine de jammers se sont réunis pour créer du jeu vidéo sur le thème Bizarre bizarre extrait du film Drôle de Drame sortie en 1937.\n\nLa Maison du Jeu Vidéo de Rennes est un lieu associatif ouvert au public à partir de septembre 2023 et se voulant représentatif de toutes les pratiques du jeu vidéo que l'on peut trouver qu'elles soient artistiques, éducatives, associatives, lucratives ou non...\n➡️ Plus d'informations sur le lieu : https://lamaisondujeuvideo.com\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\net tous vos autres réseaux préférés\n\nRestitution diffusée le dimanche 27 octobre 2024 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n3:33 Visage\n6:57 Goat Toucher\n12:37 Cluige\n22:45 Not Windows\n36:20 Biodéchets Intrépides : Zone Anti-gaspillage Recyclage Radieux Écoresponsable\n49:18 Instant pub Super reaKtor\n50:11 Les prochaines jams\n53:30 Florilège\n58:25 Les prochaines jams : la suite\n1:01:30 Conclusion\n\n#gamejam #indie #rennes #octojam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HvKR3VWhhN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HvKR3VWhhN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HvKR3VWhhN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HvKR3VWhhN0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HvKR3VWhhN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HvKR3VWhhN0"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "HvKR3VWhhN0",
+      "videoPublishedAt": "2024-11-02T16:00:20Z"
+    },
+    "formattedTitle": "Les JEUX de l'OCTOJAM 2024  (et 0h game jam)",
+    "type": "jam",
+    "duration": 3825.069569
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "LbCYwRlfOkp65yYdo6Lcly7RgLA",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnBpRmhrcDFNcFpJ",
+    "snippet": {
+      "publishedAt": "2024-10-05T16:30:19Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Revenir à un studio indé plus petit - Avec Adrien et Aurélien (Frog Collective) | Indie & Co",
+      "description": "Adrien Allard, programmeur passé par plusieurs studios de jeux vidéo et Aurélien Rantet, artiste 2D issu du monde de l’animation ont décidé ensemble de quitter Amplitude Studios pour lancer leur propre structure, le Frog Collective ( https://www.youtube.com/@frog-collective ). Retour sur leurs parcours respectifs qui mène à la production de ColdRidge : un jeu de gestion rogue-lite dans l’univers du far-west.\n\nLe site du Frog Collective : http://frog-collective.com/fr/\nLe Twitter du Frog Collective : https://twitter.com/FrogCoGames\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n3:22 Prince of Persia (amiga) https://fr.wikipedia.org/wiki/Prince_of_Persia_(jeu_vidéo,_1989)\n3:57 Heroes of might and Magic 1, 2, 3 https://fr.wikipedia.org/wiki/Heroes_of_Might_and_Magic\n4:05 Civilization 2 https://fr.wikipedia.org/wiki/Civilization_II\n5:07 Duck hunt https://fr.wikipedia.org/wiki/Duck_Hunt\n5:24 Tomb raider 2 https://store.steampowered.com/app/225300/Tomb_Raider_II/?curator_clanid=42527171\n5:46 StarCraft https://starcraft.com/\n6:39 Diablo https://diablo2.blizzard.com/\n6:40 Baldur's gate https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/?curator_clanid=42527171\n6:46 Oblivion https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/?curator_clanid=42527171\n6:47 Skyrim https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?curator_clanid=42527171\n7:47 Rayman 2 https://www.gog.com/game/rayman_2_the_great_escape\n20:58 Endless space 2 https://store.steampowered.com/app/392110/Endless_Space_2/?curator_clanid=42527171\n23:05 Endless space 1 https://store.steampowered.com/app/208140/Endless_Space__Collection/?curator_clanid=42527171\n23:56 Humankind https://store.steampowered.com/app/1124300/HUMANKIND/?curator_clanid=42527171\n39:14 Faraway https://store.steampowered.com/app/883880/Faraway_Puzzle_Escape/?curator_clanid=42527171\n39:28 Dorfromantik https://store.steampowered.com/app/1455840/Dorfromantik/?curator_clanid=42527171\n41:21 The long dark https://store.steampowered.com/app/305620/The_Long_Dark/?curator_clanid=42527171\n45:15 Frostpunk https://store.steampowered.com/app/323190/Frostpunk/?curator_clanid=42527171\n46:32 ColdRidge https://store.steampowered.com/app/3052500/ColdRidge/?curator_clanid=42527171\n\nChapitres\n0:00 Extrait\n1:46 Intro\n2:24 Découverte du jeu vidéo\n8:38 Vers la création de JV\n14:30 Rencontre et travail d’équipe\n16:12 Arrivée à Amplitude\n24:50 Les inconvénients d’un gros studio\n28:10 Besoin de reconnexion avec la création\n33:30 Lancement du Frog Collective et premiers pas\n36:45 Inspirations et conception de ColdRidge\n46:30 L’histoire de ColdRidge, un roguelite au far-west\n52:10 Publisher et prochains projets\n55:31 Pourquoi le nom Frog Collective ?\n58:14 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/piFhkp1MpZI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/piFhkp1MpZI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/piFhkp1MpZI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/piFhkp1MpZI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/piFhkp1MpZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "piFhkp1MpZI"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "piFhkp1MpZI",
+      "videoPublishedAt": "2024-10-05T16:30:19Z"
+    },
+    "formattedTitle": "Revenir à un studio indé plus petit - Avec Adrien et Aurélien (Frog Collective) | Indie & Co",
+    "type": "podcast",
+    "duration": 3559.781587
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "G0-kuQs1yJtD_nMdzaPfw-uKB6M",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnc5c1Z1UzJQb1pV",
+    "snippet": {
+      "publishedAt": "2024-07-27T16:00:59Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌶️ Les JEUX créés pendant la BBQ JAM 2024 à la Maison du Jeu Vidéo !",
+      "description": "Les 28-29-30 juin 2024 a eu lieu la 2nde édition de la BBQ Jam organisée par Indie Collective à Rennes à La Maison du Jeu Vidéo. Une vingtaine de jammers se sont réunis pour déguster galettes saucisses, merguez, aubergines, poivrons et autres bretzel et pains au chocolat cuits au barbecue pour ainsi créer 7 magnifiques jeux vidéo sur le thème donné d'un timbre commémoratif de la poste sur l'instauration des congés payés de 1936.\n\nLa Maison du Jeu Vidéo de Rennes est un lieu associatif ouvert au public à partir de septembre 2023 et se voulant représentatif de toutes les pratiques du jeu vidéo que l'on peut trouver qu'elles soient artistiques, éducatives, associatives, lucratives ou non...\n➡️ Plus d'informations sur le lieu : https://lamaisondujeuvideo.com\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\net tous vos autres réseaux préférés\n\nRestitution diffusée le dimanche 30 juillet 2024 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n4:51 Abattez la citadelle\n11:24 Grillé comme une saucisse / En attendant les vacances\n21:20 Tetris du Coffre\n30:49 MegaStamper3000\n38:20 Vacationes\n45:39 Opération Timbrée\n51:52 Stamped\n1:05:10 Conclusion\n\n#gamejam #indie #rennes #bbqjam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w9sVuS2PoZU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w9sVuS2PoZU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w9sVuS2PoZU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w9sVuS2PoZU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w9sVuS2PoZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w9sVuS2PoZU"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "w9sVuS2PoZU",
+      "videoPublishedAt": "2024-07-27T16:00:59Z"
+    },
+    "formattedTitle": "Les JEUX créés pendant la BBQ JAM 2024 à la Maison du Jeu Vidéo",
+    "type": "jam",
+    "duration": 4040.063129
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "oVhK4HPLdSSqsWoruWJaMrf3J2U",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnh6dy0xeEJodFNB",
+    "snippet": {
+      "publishedAt": "2024-07-02T16:01:01Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Plus créatif sous contraintes ? - Avec Guillaume Faure (MarechalBanane) | Indie & Co",
+      "description": "Guillaume Faure (@marechalbanane6035) a passé une dizaine d'années dans l'industrie du jeu vidéo parisien avant de s'installer à Rennes et prendre ses quartiers dans la fraîchement ouverte Maison du Jeu Vidéo où il expérimente la création de jeux minimalistes sur une fantasy console, PICO-8.\n\nLe site de MarechalBanane : https://marechalbanane.games\nLe Twitter de Guillaume : https://twitter.com/MarechalBanane\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n01:18 Duck Hunt\n02:02 Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/?curator_clanid=42527171\n02:02 Braid https://store.steampowered.com/app/499180/Braid_Anniversary_Edition/?curator_clanid=42527171\n03:10 Conker's Bad Fur Day\n06:11 Minecraft\n06:11 World of Goo https://store.steampowered.com/app/22000/World_of_Goo/?curator_clanid=42527171\n07:32 Crayon Physics https://store.steampowered.com/app/26900/Crayon_Physics_Deluxe/?curator_clanid=42527171\n07:32 Experimental Gameplay Project\n09:02 TI-92\n09:42 RPG Maker 2000 https://store.steampowered.com/app/383730/RPG_Maker_2000/?curator_clanid=42527171\n15:35 Pix'n Love - Rush\n17:00 Crouching Pony Hidden Dragon https://store.steampowered.com/app/286930/Crouching_Pony_Hidden_Dragon/?curator_clanid=42527171\n21:51 WeSing\n22:04 Green Day Rock Band\n23:47 Endless Space 2 https://store.steampowered.com/app/392110/ENDLESS_Space_2/?curator_clanid=42527171\n23:57 Endless Dungeon https://store.steampowered.com/app/1485590/ENDLESS_Dungeon/?curator_clanid=42527171\n24:04 Dungeon of the Endless https://store.steampowered.com/app/249050/Dungeon_of_the_ENDLESS/?curator_clanid=42527171\n34:45 Will The Man Get Frog https://store.steampowered.com/app/2658990/Will_The_Man_Get_Frog/?curator_clanid=42527171\n34:45 PICO-8 https://www.lexaloffle.com/pico-8.php\n43:59 Alien, sauvegardes\n44:49 Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/?curator_clanid=42527171\n47:47 TIC-80\n49:31 Line Wobbler\n51:27 Raging Squash https://marechalbanane.itch.io/raging-squash\n01:03:19 Demake Geoguessr\n01:04:13 Undertale https://store.steampowered.com/app/391540/Undertale/?curator_clanid=42527171\n01:05:08 Picotron https://www.lexaloffle.com/picotron.php\n01:06:06 Consoles pico-8\n01:07:31 FootTruc https://marechalbanane.itch.io/foottruc\n01:09:46 Twitch Plays Pokemon\n01:09:46 Pixel War\n01:09:46 ChefSquad https://chubigans.itch.io/chefsquad\n\nChapitres\n00:00:00 Intro\n00:00:43 Premiers pas dans le jeu vidéo\n00:04:37 Orientation vers le jeu indé\n00:08:37 Premiers développements\n00:12:42 Études et orientation\n00:16:23 Le Cortex, première expérience professionnelle en indépendant\n00:22:50 Amplitude Studios, burnout et syndicalisme\n00:31:19 Lancement en indépendant à Rennes\n00:34:35 Pourquoi PICO-8 et pas un autre moteur ?\n00:41:40 La technique ne freine pas les progrès du média\n00:46:39 PICO-8 : alternatives ? avantages ?\n00:51:17 Autres jeux de jam\n00:55:38 Will The Man Get Frog sur Steam : mots, multi, workshops...\n01:02:24 Prochains projets\n01:07:21 FootTruc, un jeu multi sur Twitch\n01:13:33 Homonyme en doublage de jeu vidéo\n01:15:01 La suite ?\n01:17:05 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xzw-1xBhtSA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xzw-1xBhtSA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xzw-1xBhtSA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xzw-1xBhtSA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xzw-1xBhtSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xzw-1xBhtSA"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "xzw-1xBhtSA",
+      "videoPublishedAt": "2024-07-02T16:01:01Z"
+    },
+    "formattedTitle": "Plus créatif sous contraintes ? - Avec Guillaume Faure (MarechalBanane) | Indie & Co",
+    "type": "podcast",
+    "duration": 4668.070023
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "czRoLiCe2KaW6EoUOzfM_cktyko",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjl2aXp0allFaVh3",
+    "snippet": {
+      "publishedAt": "2024-04-28T15:03:18Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Développeur de jeux indés depuis plus de 15 ans - Avec Damien Mayance (Pixelnest) | Indie & Co",
+      "description": "Damien Mayance @valryon_ est le développeur de jeux vidéo indépendant de Steredenn, un shoot 'em up à succès qui comptabilise aujourd’hui plus de 250 000 joueurs uniques cumulés sur tout support confondus. Il revient ici sur son parcours de plus de 15 ans de création, d’amateur à indépendant chez @pixelnest qu'il a co-fondé et pompier freelance en prestation pour divers studios sans manquer d’aborder ses projets futurs comme Cthuloot, un jeu d’aventure coopératif ou encore TyGAMES, la structure de micro-édition qu’il a cofondée.\n\nLe Twitter de Damien : https://twitter.com/Valryon\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n2:02 Adventure Island\n2:24 James Renard / Spy Fox https://store.steampowered.com/sub/42722/?curator_clanid=42527171\n2:45 Wonder Boy\n3:10 Shufflepuck Cafe\n3:30 Raptor\n4:20 Duke Nukem\n5:17 The Lost Viking (Blizzard)\n5:23 Kyrandia 2: The Hand of Fate\n8:30 Star Fox 64\n9:00 Medievil https://fr.ulule.com/the-great-paper-adventure-1/\n11:14 The Great Paper Adventure (TGPA) https://fr.ulule.com/the-great-paper-adventure-1/\n12:30 Steredenn https://store.steampowered.com/app/835730/Steredenn_Binary_Stars/?curator_clanid=42527171\n12:03 Brotato https://store.steampowered.com/app/1942280/Brotato/?curator_clanid=42527171\n17:00 Playdate https://play.date/\n20:00 Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/?curator_clanid=42527171\n20:01 World of Goo https://store.steampowered.com/app/22000/World_of_Goo/?curator_clanid=42527171\n20:18 Pix The Cat https://store.steampowered.com/app/330180/Pix_the_Cat/?curator_clanid=42527171\n20:48 MonoGame https://monogame.net/\n22:42 Bande-originale Spintr0nic https://www.jamendo.com/album/85421/the-great-paper-adventure-bo\n25:12 Monique Passion Hôtesse de Caisse https://dmayance.com/monique-passion-hotesse-de-caisse/\n26:45 Stunfest https://stunfest.com\n26:58 Shmupfest / Jeu du Stunfest https://pixelnest.io/products/shmupfest/\n29:32 Ikaruga https://store.steampowered.com/app/253750/Ikaruga/?curator_clanid=42527171\n29:35 Sexy Parodius\n31:13 Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/?curator_clanid=42527171\n32:48 PICO-8 https://www.lexaloffle.com/pico-8.php\n33:27 Wargroove https://store.steampowered.com/app/607050/Wargroove/\n33:43 X-COM\n33:48 Into The Breach https://store.steampowered.com/app/590380/Into_the_Breach/?curator_clanid=42527171\n33:55 Advance Wars\n35:02 Night Call https://store.steampowered.com/app/680380/Night_Call/?curator_clanid=42527171\n35:40 City Invaders https://cityinvaders.game\n37:39 Flipon https://store.steampowered.com/app/1285020/Flipon/?curator_clanid=42527171\n39:09 Nano Piko https://nanopiko.com/blog/\n39:25 Florent Morin \n39:29 The Wreck https://store.steampowered.com/agecheck/app/1687960/?curator_clanid=42527171\n39:40 Enterre-moi mon amour https://enterremoimonamour.arte.tv/\n40:55 Atlangames https://www.atlangames.com/\n42:57 Indie Collective https://indieco.xyz\n46:56 Cthuloot https://store.steampowered.com/app/2283410/Cthuloot/?curator_clanid=42527171\n48:50 Broforce https://store.steampowered.com/app/274190/Broforce/?curator_clanid=42527171\n49:50 Braid https://store.steampowered.com/app/26800/Braid/?curator_clanid=42527171\n50:35 Double Kick Heroes https://store.steampowered.com/agecheck/app/589670/?curator_clanid=42527171\n50:40 Mush\n52:46 TyGames https://ty.games\n53:00 Psycho Starship Rampage https://store.steampowered.com/app/386560/Psycho_Starship_Rampage/?curator_clanid=42527171\n56:48 Flateye https://store.steampowered.com/app/1358840/Flat_Eye/?curator_clanid=42527171\n56:55 An Drouizig https://drouizig.org\n59:27 An Ankoù https://store.steampowered.com/app/2281650/An_Ankou/\n59:49 Take The King! https://store.steampowered.com/app/2479610/Take_the_King/?curator_clanid=42527171\n\nChapitres\n0:00 Intro\n1:33 Rencontre avec le JV\n6:06 Premières bidouille et développement\n9:30 Lancement dans le gamedev avec XNA\n11:32 Constructeurs console et indés\n22:06 The Great Paper Adventure\n24:38 Transition et Pixelnest\n27:26 Steredenn\n32:25 Projets abandonnés, enseignement et prestation\n37:21 Flipon\n39:20 Le West Indie Collective\n44:06 Plaisir d’offrir ou challenge technique ?\n46:40 Chtuloot\n52:46 TyGAMES, un micro-publisher breton\n1:01:58 Le retour de Pixelnest ?\n1:05:10 La suite\n1:05:45 Conclusion\n\n#podcast #indieandco #steredenn",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9viztjYEiXw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9viztjYEiXw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9viztjYEiXw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9viztjYEiXw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9viztjYEiXw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9viztjYEiXw"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "9viztjYEiXw",
+      "videoPublishedAt": "2024-04-28T15:03:18Z"
+    },
+    "formattedTitle": "Développeur de jeux indés depuis plus de 15 ans - Avec Damien Mayance (Pixelnest) | Indie & Co",
+    "type": "podcast",
+    "duration": 4028.546032
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "787i-6wgo5Xew7eOlUohG740RF0",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkpBQnlENFhESGFR",
+    "snippet": {
+      "publishedAt": "2024-03-16T09:00:22Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Porter un JEU sur CONSOLES - Avec Blanche Maurice (Console Programmer) | Indie & Co",
+      "description": "Blanche est programmeuse console et système pour @MicroidsOff Studio Paris et s'occupe du portage de jeux comme Siberia : The World Before depuis un co-working indé à Rennes. Anecdotes, expérience et pré-requis des différentes plateformes qui constituent le marché de la console aujourd'hui.\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nEn podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n1:57 BC racers https://fr.wikipedia.org/wiki/BC_Racers\n3:55 World of Warcraft https://worldofwarcraft.blizzard.com\n12:41 A Comfortable Burden https://store.steampowered.com/app/1432760/A_Comfortable_Burden/?curator_clanid=42527171\n18:17 Microids studio https://www.microids.com/\n21:30 Siberia : The World Before https://store.steampowered.com/app/1410640/Syberia_The_World_Before/?curator_clanid=42527171\n26:05 God of War https://store.steampowered.com/app/1593500/God_of_War/?curator_clanid=42527171\n49:05 Nordic Game Jam https://nordicgamejam.com/\n58:44 Épisode avec Sushi https://www.youtube.com/watch?v=hp0ibRhFfOk&pp=ygUIc3VzaGlmdDU%3D\n1:02:08 ADDON https://addon.events\n1:02:30 GameCamp https://gamecamp.fr/\n1:04:50 Elias Farhan - Optimisation : une approche continue https://www.youtube.com/watch?v=IsZuUBd-sZE\n\nChapitres\n0:00 Intro\n1:18 Premiers pas dans le jeu vidéo\n6:18 Parcours éducatif et entrée dans le monde pro\n09:45 Godot : un renouveau pour l’industrie ?\n11:38 A Comfortable Burden, un jeu sur la charge mentale\n16:50 Travailler en co-working indé pour Microids\n21:20 Portage de Siberia 4 sur console\n24:44 Processus de certification et pré-requis constructeur\n33:50 Difficultés de portage console et travail en équipe\n41:43 Faire du jeu sur des vieilles consoles\n48:05 Participations à des game jams\n1:01:37 La suite ?\n1:03:58 Conclusion\n\n#podcast #indieandco #console",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JAByD4XDHaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JAByD4XDHaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JAByD4XDHaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JAByD4XDHaQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JAByD4XDHaQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JAByD4XDHaQ"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "JAByD4XDHaQ",
+      "videoPublishedAt": "2024-03-16T09:00:22Z"
+    },
+    "formattedTitle": "Porter un JEU sur CONSOLES - Avec Blanche Maurice (Console Programmer) | Indie & Co",
+    "type": "podcast",
+    "duration": 4000.240907
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "3LnL4IqcE84wxd-bnqBjio3V2n8",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlhWWV9CZVo2N1JF",
+    "snippet": {
+      "publishedAt": "2024-02-29T16:00:32Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌍 Les JEUX créés à la GLOBAL GAME JAM Rennes 2024 !",
+      "description": "Restitution des jeux créés lors de la Global Game Jam 2024, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne. \n\nVoir la vidéo de lancement : https://youtu.be/ir2TvKyNDRw\nVoir le point d'avancement des projets : https://youtu.be/hPodCbaX920\nBonus discussion crêpes et galette : https://youtu.be/a3KXWolJels\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de l'organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nPrésentation diffusée le dimanche 28 janvier 2024 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n00:00 Introduction\n05:14 Porte d'arcade\n08:00 Make Him Laugh\n09:28 FootTruc\n21:06 JMJ Hawk Pro Laugher\n29:37 Mortal Guili\n34:30 Crazy Card Mania\n44:10 OptiBlague\n54:00 Timmy the Bugs Bully\n1:02:06 Laugh Lands\n1:09:39 Les Bouffons et le Roi\n1:13:16 Cat'astrophe\n1:20:06 Ba(d)nana News !\n1:25:10 Chaos Cards\n1:30:55 Tomato Circus\n1:38:38 Make Me 8\n1:42:34 Ouf Prout Splash !\n1:48:25 Citizen Hyène\n1:56:34 Commentaires et remerciements\n2:01:47 Annonce de Megamaj à l'édulab Pasteur\n2:03:20 Conclusion\n\n#globalgamejam #gamejam #indie #rennes #ggj",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XVY_BeZ67RE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XVY_BeZ67RE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XVY_BeZ67RE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XVY_BeZ67RE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XVY_BeZ67RE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XVY_BeZ67RE"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "XVY_BeZ67RE",
+      "videoPublishedAt": "2024-02-29T16:00:32Z"
+    },
+    "formattedTitle": "Les JEUX créés à la GLOBAL GAME JAM Rennes 2024",
+    "type": "jam",
+    "duration": 7425.114558
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fnNgAT9A0e8JUdS08IYPzjcO8SU",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmhQb2RDYmFYOTIw",
+    "snippet": {
+      "publishedAt": "2024-02-27T12:00:38Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "📌 Point d'avancement des projets de la GLOBAL GAME JAM Rennes 2024 🌍",
+      "description": "Point d'avancement des projets à mi-parcours de la Global Game Jam 2024, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne.\n\nVoir la vidéo de lancement : https://youtu.be/ir2TvKyNDRw\nVoir la rediffusion de la restitution des projets : https://youtu.be/XVY_BeZ67RE\nBonus discussion crêpes et galette : https://youtu.be/a3KXWolJels\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de la co-organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nDiffusé le samedi 27 janvier 2024 sur https://www.twitch.tv/indiecollective\n\n#gamejam #indie #rennes #ggj #globalgamejam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hPodCbaX920/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hPodCbaX920/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hPodCbaX920/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hPodCbaX920/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hPodCbaX920/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hPodCbaX920"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "hPodCbaX920",
+      "videoPublishedAt": "2024-02-27T12:00:38Z"
+    },
+    "formattedTitle": "Point d'avancement des projets de la GLOBAL GAME JAM Rennes 2024",
+    "type": "jam",
+    "duration": 2598.011066
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "o9sX6alW5FSMsXfE-odFRTY0if0",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmEzS1hXb2xKZWxz",
+    "snippet": {
+      "publishedAt": "2024-02-24T17:00:00Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🥞 Atelier GALETTES & CRÊPES pendant la GLOBAL GAME JAM Rennes 🌍",
+      "description": "Discussion chill et inutile sur les crêpes et les galettes, les spécialités culinaires et régionales de la Bretagne lors de la Global Game Jam 2024, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne.\nPeut-être que c'est un peu inutile de poster ça, mais pourquoi pas ?\n\nVoir la vidéo de lancement : https://youtu.be/ir2TvKyNDRw\nVoir le point d'avancement des projets : https://youtu.be/hPodCbaX920\nVoir la rediffusion de la restitution des projets : https://youtu.be/XVY_BeZ67RE\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de la co-organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nDiffusé le samedi 27 janvier 2024 sur https://www.twitch.tv/indiecollective\n\n#gamejam #indie #rennes #ggj #globalgamejam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a3KXWolJels/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a3KXWolJels/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a3KXWolJels/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a3KXWolJels/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a3KXWolJels/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a3KXWolJels"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "a3KXWolJels",
+      "videoPublishedAt": "2024-02-24T17:00:00Z"
+    },
+    "formattedTitle": "Atelier GALETTES & CRÊPES pendant la GLOBAL GAME JAM Rennes",
+    "type": "jam",
+    "duration": 2950.048798
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "d2eRLOTlwO-Q-Y1IhGw8fADxlzI",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnpRUUEzSmhzc293",
+    "snippet": {
+      "publishedAt": "2024-02-03T09:00:48Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Ce que fait le Narrative Designer - Avec Alice David | Indie & Co",
+      "description": "Alice David est narrative designeuse et non comédienne comme son homonyme. Bibliothécaire à la base, elle a fait une reconversion et travaillé pour @DONTNOD, pour un petit studio indépendant et sur un projet annexe pour lequel l'équipe a décroché une subvention du CNC. Explications et échanges sur une pratique encore mal connue du monde du jeu vidéo.\n\nL'Instagram de Where Do Dead Malls Go? : https://www.instagram.com/wheredodeadmallsgo\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n2:34 James Renard / Spy Fox https://store.steampowered.com/app/283980/Spy_Fox_in_Dry_Cereal/?curator_clanid=42527171\n2:56 Les Sims\n03:44 Journey https://store.steampowered.com/app/638230/Journey/?curator_clanid=42527171\n03:46 GRIS https://store.steampowered.com/app/683320/GRIS/?curator_clanid=42527171\n10:20  eXistenZ (film) https://www.imdb.com/title/tt0120907/\n13:28 Disco Elysium https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/?curator_clanid=42527171\n15:12 Kentucky Route Zero https://store.steampowered.com/app/231200/Kentucky_Route_Zero_PC_Edition/?curator_clanid=42527171\n20:38 Discworld noir https://fr.wikipedia.org/wiki/Discworld_Noir\n30:54 Dear Esther https://store.steampowered.com/app/520720/Dear_Esther_Landmark_Edition/?curator_clanid=42527171\n31:37 Gone Home https://store.steampowered.com/app/232430/Gone_Home/?curator_clanid=42527171\n34:50 Stardew Valley https://store.steampowered.com/app/413150/Stardew_Valley/?curator_clanid=42527171\n35:20 RRRrrrr! https://www.imdb.com/title/tt0357111/\n35:32 The Invention of Lying https://www.imdb.com/title/tt1058017/\n41:50 Where do dead malls go? https://www.youtube.com/watch?v=sR67jN4Ybc0\n48:03 SPAWN https://spawngamesfestival.org/\n49:28 Victor Gruen. Créateur du centre commercial. https://fr.wikipedia.org/wiki/Victor_Gruen\n55:02 Fonds d'aide au jeu vidéo CNC https://www.cnc.fr/professionnels/aides-et-financements/jeu-video/fonds-daide-au-jeu-video-fajv_191468\n\nChapitres\n00:00 Intro\n00:39 Alice David, l'actrice / comédienne de doublage ?\n02:11 Découverte du JV\n03:39 De bibliothécaire à narrative designeuse chez DONTNOD\n06:39 Processus du narrative design\n12:16 Les jeux qui ont marqué\n21:34 La différence scénariste / narrative designer\n24:14 Les outils des narrative designers\n27:14 Un narrative designer en game jam ?\n28:50 Jeu vidéo ou histoire interactive ?\n33:33 Le contexte dans le jeu vidéo\n36:18 Difficultés et reconnaissance du métier\n41:33 Projet : Where do dead malls go?\n55:02 La suite ?\n56:50 Conclusion\n\n#podcast #indieandco #narrativedesign",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zQQA3Jhssow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zQQA3Jhssow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zQQA3Jhssow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zQQA3Jhssow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zQQA3Jhssow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zQQA3Jhssow"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "zQQA3Jhssow",
+      "videoPublishedAt": "2024-02-03T09:00:48Z"
+    },
+    "formattedTitle": "Ce que fait le Narrative Designer - Avec Alice David | Indie & Co",
+    "type": "podcast",
+    "duration": 3464.556553
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "PzTVOA9rJeG_hbenyb2Ys7gdfmk",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjlURllZU3dXSVZR",
+    "snippet": {
+      "publishedAt": "2023-12-16T09:02:00Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Faire éditer son jeu vidéo - Avec Aziz Goumiri (Belette Team) | Indie & Co",
+      "description": "Aziz Goumiri, fondateur de Belette Team basé à Nantes, vient nous parler de son expérience de reconversion dans l’industrie du jeu vidéo et de son rapport aux éditeurs de jeu vidéo, français ou étrangers, qu'il a pu rencontrer afin de financer la production de son premier jeu, They're Not Monsters.\n\nLe Twitter/X d'Aziz : https://twitter.com/Azgoum\nLe Twitter/X du jeu : https://twitter.com/TheyNotMonsters\nLa page steam de They're Not Monsters : https://store.steampowered.com/app/2423140/Theyre_Not_Monsters/?curator_clanid=42527171\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n3:10 GTA 2\n3:21 Counter Strike\n3:25 Warcraft 3\n6:43 They’re Not Monsters https://store.steampowered.com/app/2423140/Theyre_Not_Monsters/?curator_clanid=42527171\n7:40 Le laboratoire de Dexter\n31:47 Headbangers https://store.steampowered.com/app/1761620/Headbangers_Rhythm_Royale/?curator_clanid=42527171\n48:30 Despot's Game https://store.steampowered.com/app/1227280/Despots_Game_Dystopian_Battle_Simulator/?curator_clanid=42527171\n48:40 Rotwood https://store.steampowered.com/app/2015270/Rotwood/?curator_clanid=42527171\n52:31 Baldur's Gate 3\n52:33 Starfield\n\nChapitres\n0:00 Intro\n2:40 Les premiers JV\n6:42 Le Jeu : They're Not Monsters\n10:50 Le prototype pour démarcher des éditeurs\n25:40 Retour à la case départ\n45:05 Conséquences de l'Indiepocalypse ?\n54:40 Le changement de politique de Unity\n1:03:30 La suite, des petits jeux avec IA ?\n1:05:38 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9TFYYSwWIVQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9TFYYSwWIVQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9TFYYSwWIVQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9TFYYSwWIVQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9TFYYSwWIVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9TFYYSwWIVQ"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "9TFYYSwWIVQ",
+      "videoPublishedAt": "2023-12-16T09:02:00Z"
+    },
+    "formattedTitle": "Faire éditer son jeu vidéo - Avec Aziz Goumiri (Belette Team) | Indie & Co",
+    "type": "podcast",
+    "duration": 3979.203628
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "PKc9vGRsQdQP8PhNloZ3FNf-nd4",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnZuZUpGWk5iU1U0",
+    "snippet": {
+      "publishedAt": "2023-11-17T12:00:59Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🇪🇺 Restitution des jeux de l'InJam France !",
+      "description": "Issue d'une collaboration entre diverses structures, InJam est un projet européen de 3 game jams consécutives en Espagne, France puis Estonie, à redécouvrir à travers cette restitution des projets de l'édition française qui s'est déroulée à Rennes le 27 octobre 2023.\n\nSoirée de lancement : https://www.youtube.com/watch?v=20s6vCuW_58\n\nRetrouvez les projets de la jam : https://itch.io/c/3772279/injam-france\nRetrouvez les projets des autres InJam : https://itch.io/jam/invideogames/entries\n\nQuelques petits problèmes de sons à déplorer, on fera mieux la prochaine fois !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de la co-organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nPrésentation diffusée le dimanche 29 octobre 2023 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n2:26 Vidéo résumé de la jam\n6:08 Rappel du projet\n8:00 Flappy Bird des émotions\n14:45 How to emotionate 101\n19:50 Raging Squash\n24:48 Mental Squad\n29:27 Dot Dot Dot\n38:18 The Legends of Emotions\n44:48 Ultra Pet The Dog\n49:34 Flappy Bird des émotions (suite)\n52:50 Le repas de famille\n57:12 Emotiball\n1:02:58 The Caretaker\n1:13:15 Le Code des Émotions\n1:24:25 Emotional Adventure\n1:32:20 Inside\n1:40:40 Collect the Emotions\n1:49:10 Spaghetto\n1:50:19 Conclusion\n\n#gamejam #indie #rennes #injam #invideogames",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vneJFZNbSU4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vneJFZNbSU4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vneJFZNbSU4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vneJFZNbSU4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vneJFZNbSU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vneJFZNbSU4"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "vneJFZNbSU4",
+      "videoPublishedAt": "2023-11-17T12:00:59Z"
+    },
+    "formattedTitle": "Restitution des jeux de l'InJam France",
+    "type": "jam",
+    "duration": 6784.313469
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jSv3xSx0xAhmXJR9M7taeVBhmAw",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkpzWW5CT29Hd3VJ",
+    "snippet": {
+      "publishedAt": "2023-10-07T15:14:01Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Le statut particulier du jeu en France - Avec Sélène Tonon | Indie & Co",
+      "description": "Sélène Tonon, conseillère municipale déléguée aux musées, aux lectures publiques et à la culture ludique de la ville de Rennes, revient sur son parcours et expérience dans l’industrie du jeu, son implication politique et son rôle en tant que conseillère et sur ce qui l’a amené à se lancer dans l’enseignement. À ses heures perdues, elle traduit aussi des jeux de rôles et participent à des game jams qui nourrissent son envie de soutenir et promouvoir davantage la vie culturelle, notamment ludique, à Rennes.\n\nLe Twitter/X de Sélène : https://twitter.com/SeleneTonon\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeu vidéo. Elle participe aussi à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nRéférences mentionnées\n1:30 Pong\n1:38 NES\n1:40 Atari Mega STE\n2:02 SNES\n2:06 Zelda 3\n2:10 Secret of Mana\n2:11 Illusion of Time\n2:12 Secret of Evermore\n2:15 Terra nigma\n2:21 Super Mario Kart\n3:20 Worms Armageddon\n3:42 Super Mario Odyssey\n3:51 Super Mario 64\n5:22 FFVII\n26:22 Réponse à la question de Sylvie Robert https://sylvie-robert.fr/qe-reconnaissance-du-jeu-de-societe-comme-objet-culturel-et-statut-des-auteurs/ https://www.senat.fr/questions/base/2023/qSEQ230305549.html\n45:26 Yes, You Grace https://store.steampowered.com/app/1115690/Yes_Your_Grace/?curator_clanid=42527171\n48:05 Stunfest https://stunfest.com\n48:05 Warpzone https://www.warpzone-bar.fr/rennes\n48:05 Heure du Jeu https://www.lheuredujeu.fr/\n48:05 Insalan https://www.insalan.fr/\n48:05 Eclipse JDR https://www.facebook.com/ConventionEclipse/\n48:05 Rennes en jeux http://www.rennesenjeux.fr/\n55:03 Monsterhearts https://www.gameontabletop.com/cf1941/monsterhearts.html\n1:04:02 ETPA https://www.etpa.com/game-design/campus/rennes\n1:17:40 Inauguration MdJV : 18 novembre à 14h, 2 rue sous-lieutenant Yves Berger\n1:20:27 Zelda Tears of the Kingdom https://www.nintendo.fr/Jeux/Jeux-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html\n1:20:52 FF14 https://fr.finalfantasyxiv.com/\n1:21:27 Pâquerette dans the down Burrows https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/?curator_clanid=42527171\n\nChapitres\n0:00 Intro\n1:15 Premiers jeux\n2:45 Évolution des jeux et des pratiques\n10:12 Expérience de création\n14:44 Statut actuel du jeu vidéo\n20:15 Jeu de plateau : une jeune industrie en besoin de reconnaissance\n28:25 Conseillère municipale de la ville Rennes\n43:30 La situation du Jeu à Rennes\n55:00 Traductrice du jeu de rôle Monsterhearts\n1:00:30 Enseignement\n1:11:35 Le clavier, non genré ?\n1:17:20 Ouverture officielle de la Maison du Jeu Vidéo\n1:19:30 Conclusion\n\n#podcast #indieandco",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JsYnBOoGwuI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JsYnBOoGwuI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JsYnBOoGwuI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JsYnBOoGwuI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JsYnBOoGwuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JsYnBOoGwuI"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "JsYnBOoGwuI",
+      "videoPublishedAt": "2023-10-07T15:14:01Z"
+    },
+    "formattedTitle": "Le statut particulier du jeu en France - Avec Sélène Tonon | Indie & Co",
+    "type": "podcast",
+    "duration": 4975.061043
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Hz-qRYBWoGUncG1dYJtbZzxF7BY",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlB5RWVfSndzNnJr",
+    "snippet": {
+      "publishedAt": "2023-07-27T11:07:29Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌶️ Les jeux de la BBQ Jam !",
+      "description": "Les 7-8-9 juillet 2023 a eu lieu la 1ère édition de la BBQ Jam organisée par Indie Collective à Rennes dans un tout nouveau lieu : La Maison du Jeu Vidéo. Pour l'occasion, une petite vingtaine de jammers se sont réunis pour déguster galettes saucisses, merguez, aubergines, maïs et autres rondelles de pastèques braisées et ainsi créer 7 magnifiques pépites vidéo-ludiques à l'issue de ce week-end sur le thème du piment enflammé.\n\nLa Maison du Jeu Vidéo de Rennes est un tout nouveau lieu associatif ouvert au public à partir de septembre 2023 et se voulant représentatif de toutes les pratiques du jeu vidéo que l'on peut trouver qu'elles soient artistiques, éducatives, associatives, lucratives ou non...\n➡️ Plus d'informations sur le lieu : https://lamaisondujeuvideo.com\n\nPour l'occasion les jammers ont accepté que leurs créations soient monétisées dans le cadre de ce bundle sur itch.io !\n➡️ https://itch.io/b/1940/bbq-jam-bundle-soutien-la-maison-du-jeu-vido\n\nVOD de notre live sur BBQ Simulator\n➡️ https://www.twitch.tv/videos/1892602516\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\n\nRestitution diffusée le dimanche 9 juillet 2023 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n5:09 Cluige\n10:26 Red Hot Chili Platform\n17:16 Habanero\n21:18 Turbo Grill Master\n25:35 EmojiGuessr\n32:22 Will The Man Get Frog\n38:26 Petit Piment\n47:15 BBQart\n51:45 Conclusion\n\n#gamejam #indie #rennes #bbqjam",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PyEe_Jws6rk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PyEe_Jws6rk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PyEe_Jws6rk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PyEe_Jws6rk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PyEe_Jws6rk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PyEe_Jws6rk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "PyEe_Jws6rk",
+      "videoPublishedAt": "2023-07-27T11:07:29Z"
+    },
+    "formattedTitle": "Les jeux de la BBQ Jam",
+    "type": "jam",
+    "duration": 3496.135692
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JZx5s7dObFtZzRmSm0b5xJ163m0",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkd3VFV0WUUwUl9z",
+    "snippet": {
+      "publishedAt": "2023-07-15T22:58:24Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Tenir jusqu'à la release de son jeu - Avec Anton & Nicolas (Bathyscaphe Studio) | Indie & Co",
+      "description": "Anton et Nicolas ont développé Dice of Olympus (@diceofolympus5054) : un deck-builder avec des dés. Ils reviennent sur la genèse du projet, les besoins pour chacun de concilier vie pro, perso et les difficultés rencontrées. De la réécriture des mécaniques à la communication en passant par le financement : retour sur les ambitions, les espérances et le besoin de s’adapter aux attentes des joueurs.\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nDice of Olympus sur Steam : https://store.steampowered.com/app/1515580/Dice_Of_Olympus/?curator_clanid=42527171\nLa chaîne de Dice of Olympus : @diceofolympus5054\nLe Twitter de Bathyscaphe Studio : https://twitter.com/BathyscapheStud\nLa chaîne d'Anton aka Algost : @Algost_\nLe Twitter d'Anton : https://twitter.com/Algost\n\nRéférences mentionnées\n01:20 Overwatch https://overwatch.blizzard.com/fr-fr/\n02:00 ADDON http://addon.events/\n03:00 Dice of Olympus https://store.steampowered.com/app/1515580/Dice_Of_Olympus/?curator_clanid=42527171\n12:15 Teamfight Tactics https://teamfighttactics.leagueoflegends.com/fr-fr/\n12:28 Hearthstone https://hearthstone.blizzard.com/fr-fr\n37:20 Recettes de game feel fondant et croquant par l'exemple : Thomas Altenburger, ADDON https://www.youtube.com/watch?v=8qdV6aKW7vM\n42:00 Slay the Spire https://store.steampowered.com/app/646570/Slay_the_Spire/?curator_clanid=42527171\n42:45 Talk de la GDC sur Marvel Snap de Ben Brod https://www.pockettactics.com/marvel-snap/ben-brode-gdc\n55:00 Starcraft 2 https://starcraft2.blizzard.com/fr-fr/\n58:30 Steam Next Fest https://store.steampowered.com/sale/nextfest\n\nChapitres\n0:00 Intro\n1:00 Actus JV : Overwatch et ADDON\n2:35 Dice of Olympus, c’est quoi ?\n4:50 Genèse du projet\n15:00 Échec de financement auprès d’éditeurs\n22:40 Retours et suggestions\n27:30 Réduction du scope pour la sortie\n29:45 Équilibre de vie quand on développe un jeu\n36:35 Difficultés de game design\n41:40 Inspiration et originalité\n46:30 Répartition des rôles dans l’équipe\n54:45 Faire connaître son jeu\n1:00:25 Bathyscaphe ou Bathysphère Studio ?\n1:03:05 La suite\n1:08:12 Conclusion\n\n#podcast #gamedev #indieandco #indie",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GwTUtYE0R_s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GwTUtYE0R_s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GwTUtYE0R_s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GwTUtYE0R_s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GwTUtYE0R_s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GwTUtYE0R_s"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "GwTUtYE0R_s",
+      "videoPublishedAt": "2023-07-15T22:58:24Z"
+    },
+    "formattedTitle": "Tenir jusqu'à la release de son jeu - Avec Anton & Nicolas (Bathyscaphe Studio) | Indie & Co",
+    "type": "podcast",
+    "duration": 4226.449705
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "QX4BC-mBLzpE9W6bdZpqIGe24ko",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmtYakJTYnhQc0Zr",
+    "snippet": {
+      "publishedAt": "2023-06-17T08:00:08Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Les JEUX VIDÉO d'ARTE - Avec Adrien (ARTE France) | Indie & Co",
+      "description": "Adrien Larouzée est le monsieur jeu vidéo d’ARTE. Il revient sur ce qui a timidement amené ARTE à co-produire des jeux vidéo pour s’installer comme un éditeur reconnu du milieu. Quand il ne présente pas les créations produites dans des festivals comme le Stunfest, il compose de la musique, s'essaie aux OST comme celle du jeu The Wreck développé par The Pixel Hunt et organise des tournois de chasse de sapins sur Twitter.\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nLa chaîne d'Adrien : @AdrienLarouzee\nLe Twitter d'Adrien : https://twitter.com/AdrienLarouzee\nLa chaîne d'ARTE : https://www.youtube.com/@arte\nLes jeux ARTE : http://arte.tv/videogames\n\nRéférences mentionnées\n3:24 Terra Nil https://www.terranil.com/\n3:26 Immortality https://store.steampowered.com/app/1350200/IMMORTALITY/\n3:42 Stranger Things https://store.epicgames.com/fr/p/stranger-things-3-the-game\n4:12 Soldats Inconnus : Frères d'arme Android https://play.google.com/store/apps/details?id=com.netflix.NGP.ValiantHearts2 iOS https://apps.apple.com/fr/app/valiant-hearts-coming-home/id1639590978\n9:22 ARTE Radio https://www.arteradio.com/\n9:40 Type:rider https://store.steampowered.com/app/258890/TypeRider/\n10:09 ALMA https://www.arte.tv/digitalproductions/fr/alma/\n21:08 Vectronom https://www.arte.tv/digitalproductions/vectronom/\n21:54 Bury Me My Love https://enterremoimonamour.arte.tv/\n21:54 INUA – A story in Ice and Time https://www.arte.tv/digitalproductions/inua-a-story-in-ice-in-time/\n25:33 Wheels of Aurelia https://store.steampowered.com/app/508740/Wheels_of_Aurelia/\n32:00 The Wreck https://store.steampowered.com/app/1687960/The_Wreck\n32:30 Bury Me, My Love https://store.steampowered.com/app/808090/Bury_Me_My_Love/\n33:05 Vandals https://www.arte.tv/digitalproductions/vandals/\n33:14 Homo Machina https://www.arte.tv/digitalproductions/homo-machina\n33:24 Apolline d'Ash https://open.spotify.com/artist/6QuiD8RUdpEnV1WrkAJWwa\n33:40 Ochre https://open.spotify.com/track/0JEac5QVDdozCeTpXmhRet\n39:56 Game jams ARTE https://www.arte.tv/digitalproductions/game-jam-arte-2023/\n47:22 Chasseur de sapins https://twitter.com/hashtag/chasseursdesapins?f=live\n52:09 Family Bash https://www.arte.tv/digitalproductions/fete-de-famille-1\n52:35 To Hell With The Ugly https://www.arte.tv/digitalproductions/to-hell-with-the-ugly/\n53:33 Dollywood and The Uglies (Concert Jazz au Stunfest sur To Hell With The Ugly) https://www.twitch.tv/videos/1823803355?t=05h18m23s\n\nChapitres\n0:00 Intro\n1:47 Netflix Games, quel avenir pour le jeu vidéo ?\n7:23 Du web interactif au jeu vidéo\n13:35 ARTE devient éditeur en 2016\n19:05 Process de sélection\n32:06 Composition de musique\n39:56 Game jams ARTE\n47:22 Chasseur de sapins\n52:02 La suite : prochaines sorties, événements, concert…\n55:32 Conclusion\n\n#podcast #gamedev #indieandco #indie",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kXjBSbxPsFk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kXjBSbxPsFk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kXjBSbxPsFk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kXjBSbxPsFk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kXjBSbxPsFk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kXjBSbxPsFk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "kXjBSbxPsFk",
+      "videoPublishedAt": "2023-06-17T08:00:08Z"
+    },
+    "formattedTitle": "Les JEUX VIDÉO d'ARTE - Avec Adrien (ARTE France) | Indie & Co",
+    "type": "podcast",
+    "duration": 3440.222041
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "trPGYz4KEVxH1XC6aTzXg1mQZ2E",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjlSUEZXVFhta2hN",
+    "snippet": {
+      "publishedAt": "2023-05-19T08:00:09Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Stunfest 2023 Indies Trailer",
+      "description": "Trailer des jeux présents sur la zone indie du Stunfest 2023, festival de jeu vidéo à Rennes.\n\nPour retrouver la liste complète des jeux : https://indie.stunfest.com/2023/\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nCompétition, dans l'ordre d'apparition :\nNumber 99 - TuesdayQuest https://store.steampowered.com/app/2165510/Number_99/?curator_clanid=42527171\nCrime O'Clock -  Bad Seed https://store.steampowered.com/app/1736290/Crime_OClock/?curator_clanid=42527171\nSandwalkers - Goblinz Studio https://store.steampowered.com/app/1639080/Sandwalkers/?curator_clanid=42527171\nToasterball - Les Crafteurs https://store.steampowered.com/app/1142810/Toasterball/?curator_clanid=42527171\nRUN : The World In-Between - Team RUN https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/?curator_clanid=42527171\nJumalien - Kevin Pedatte https://store.steampowered.com/app/2086840/Jumalien/?curator_clanid=42527171\nShogun Showdown Roboatino https://store.steampowered.com/app/2084000/Shogun_Showdown/?curator_clanid=42527171\nProject Operator - Bastien Giafferi https://store.steampowered.com/app/1771980/Project_OPERATOR/?curator_clanid=42527171\nKairos'Light Remake - Let's Develop Change https://www.kairoslight.fr/\nSpook Bowl - Kalank Studio https://store.steampowered.com/app/2383300/Spook_Bowl/?curator_clanid=42527171\nMagical Drop VI - Highball Games / TA Publishing / Storm Trident / Forever Entertainment https://store.steampowered.com/app/2176320/Magical_Drop_VI/?curator_clanid=42527171\nEsperia ~Uprising of the Scarlet Witch~ - Prismalice https://store.steampowered.com/app/1138210/Esperia__Uprising_of_the_Scarlet_Witch/?curator_clanid=42527171\nDarkTimes: Wrath of the Raven - https://store.steampowered.com/app/1737530/DarkTimes_Wrath_of_the_Raven/?curator_clanid=42527171\nIsland of Winds - Parity Creative House https://islandofwinds.com/\nEach Other - Smeeki\nSuper reaKtor - SuperSaZ Studio https://sushift5.itch.io/super-reaktor\nSaga of Sins - Bonus Level Entertainment https://store.steampowered.com/app/2094550/Saga_of_Sins/?curator_clanid=42527171\n\nShuffle Tactics - Club Sandwich https://store.steampowered.com/app/2186580/Shuffle_Tactics/?curator_clanid=42527171\nDraw Your Game Infinite - Zero One https://www.draw-your-game.com/\nDanghost - Umeshu Lovers https://store.steampowered.com/app/1812170/Danghost/?curator_clanid=42527171\nLast Moon - Sköll Studio https://store.steampowered.com/app/1108600/Last_Moon/?curator_clanid=42527171\n\nIndie Games, dans l'ordre d'apparition :\nAetheris - Wild Wits Games https://store.steampowered.com/app/1786010/AETHERIS/?curator_clanid=42527171\nHow To Say Goodbye - Florian Veltman https://store.steampowered.com/app/1709700/How_to_Say_Goodbye/?curator_clanid=42527171\nNinza - Klakmioch https://www.ninza-game.com/\nPaquerette Down The Bunburrows - Bunstack https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/?curator_clanid=42527171\nSclash - Bevel Bakery https://store.steampowered.com/app/1284130/Sclash/?curator_clanid=42527171\nZigglox - Giant Rabbit Games https://store.steampowered.com/app/1514880/Zigglox/?curator_clanid=42527171\nTo Hell With The Ugly - La Poule Noire https://store.steampowered.com/app/1455450/To_Hell_With_The_Ugly/?curator_clanid=42527171\nInua : A Story In Ice And Time - The Pixel Hunt https://store.steampowered.com/app/1479890/Inua__A_Story_in_Ice_and_Time/?curator_clanid=42527171",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9RPFWTXmkhM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9RPFWTXmkhM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9RPFWTXmkhM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9RPFWTXmkhM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9RPFWTXmkhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9RPFWTXmkhM"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "9RPFWTXmkhM",
+      "videoPublishedAt": "2023-05-19T08:00:09Z"
+    },
+    "formattedTitle": "Stunfest 2023 Indies Trailer",
+    "type": "stunfest",
+    "duration": 216.200998
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jJ8N2QgmeWkRGOSEGMUOAr0bNHI",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkxqcEJnWXNBSkpn",
+    "snippet": {
+      "publishedAt": "2023-05-17T16:03:00Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🕹️ Restitution des jeux de la Stunjam 2023 !",
+      "description": "La Stunjam 2023 est une game jam qui s'est tenue à l'édulab Pasteur, à Rennes, les 12-13-14 mai 2023 ! Pendant ce week-end, une quinzaine de jammers ont créé 6 projets autour du thème \"Discorde\". Les jeux seront présentés lors du festival Stunfest les 19-20-21 mai 2023 sur un stand dédié dans la zone jeux indépendants.\n\nLes jeux sont retrouvables ici : https://itch.io/jam/stunjam-2023/entries\nLa programmation du festival : https://stunfest.com\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\n\nRestitution diffusée le dimanche 14 octobre 2023 sur https://www.twitch.tv/indiecollective\n\n== Chapitres ==\n0:00 Intro\n5:11 Chat GéParLé\n14:00 IMPROBUS\n22:45 Bag Horn\n34:21 My Turn!\n42:08 The Discorder - agent 49.3\n50:20 Seré Pastora\n58:20 Conclusion\n\n#gamejam #indie #rennes #stunfest",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LjpBgYsAJJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LjpBgYsAJJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LjpBgYsAJJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LjpBgYsAJJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LjpBgYsAJJg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LjpBgYsAJJg"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "LjpBgYsAJJg",
+      "videoPublishedAt": "2023-05-17T16:03:00Z"
+    },
+    "formattedTitle": "Restitution des jeux de la Stunjam 2023",
+    "type": "jam",
+    "duration": 3670.053152
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5IFMPxMXXZVjFbp1_HQsh7uN83w",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkhDR0w5TU1Bem13",
+    "snippet": {
+      "publishedAt": "2023-04-15T08:00:10Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "La création d'un Visual Novel en Corée médiévale - Avec Alan (No More 500) | Indie & Co",
+      "description": "Alan, fondateur du studio @NoMore500Studio nous parle de son premier jeu Suhoshin, un visual novel thriller sur fond de Corée médiévale. D’une fervente passion pour le pays du matin calme à l’écriture du scénario et au développement du jeu, il évoque les détails de la constitution d’une équipe internationale qui l’ont mené à la sortie du jeu et son portage sur consoles.\n\nIndie & Co est une émission proposée par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en podcast sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées\n07:00 Suhoshin https://store.steampowered.com/app/1679700/Suhoshin/?l=french\n09:07 Raging Loop https://store.steampowered.com/app/648100/Raging_Loop/\n14:40 Ren’Py https://www.renpy.org/\n25:54 The Painter of the Wind https://en.wikipedia.org/wiki/Painter_of_the_Wind\n26:56 Kingdom https://www.netflix.com/fr/title/80180171\n27:18 Itaewon Class https://www.netflix.com/fr/title/81193309\n28:05 Steins;Gate https://store.steampowered.com/app/412830/STEINSGATE/\n29:13 Krafton est le développeur de PUBG https://krafton.com/\n31:20 Stray (et pas Sifu) https://store.steampowered.com/app/1332010/Stray/\n39:00 Danganronpa https://fr.wikipedia.org/wiki/Danganronpa\n56:45 Exemple Jeu textuel : The Pawn https://fr.wikipedia.org/wiki/The_Pawn\n58:10 Ace Attorney https://fr.wikipedia.org/wiki/Ace_Attorney\n\nChapitres\n0:00 Intro\n1:00 Lancement dans le JV et références\n7:00 Suhoshin : Un Visual Novel coréen\n15:42 Les artistes (dont Kageyoshi)\n22:25 La musique du jeu\n25:00 Dramas comme sources d’inspiration\n29:02 Un développement sous Covid\n34:50 Sortie du jeu, réactions et marché du Visual Novel\n44:17 Le portage console\n50:01 Le prochain projet\n55:00 Questions de la régie\n1:00:48 Conclusion\n\n#podcast #gamedev #indieandco #indie",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HCGL9MMAzmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HCGL9MMAzmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HCGL9MMAzmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HCGL9MMAzmw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HCGL9MMAzmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HCGL9MMAzmw"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "HCGL9MMAzmw",
+      "videoPublishedAt": "2023-04-15T08:00:10Z"
+    },
+    "formattedTitle": "La création d'un Visual Novel en Corée médiévale - Avec Alan (No More 500) | Indie & Co",
+    "type": "podcast",
+    "duration": 3803.266032
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "e0pwWI6GJGYlrV5TYozVpumzI9E",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjRyS2NFcUFEeWpZ",
+    "snippet": {
+      "publishedAt": "2023-03-04T09:00:10Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "La place du libre dans le gamedev - Avec Cédric & Élisa (Activdesign) | Indie & Co",
+      "description": "Cédric et Élisa ont créé Activdesign (@activdesign6824), un organisme de formation dans lesquels ils enseignent, entre autres, comment créer des jeux vidéo avec des logiciels libres. Tour d’horizon de ce que l’on peut trouver dans cet écosystème parfois sous-estimé mais dont certains noms résonnent pourtant fortement dans l’industrie.\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées\nSite web d'Activdesign https://activdesign.eu/\n6:42 Blender https://www.blender.org/\n6:55 Unreal Engine https://www.unrealengine.com/\n7:25 Blend4Web https://www.blend4web.com/\n7:45 Unity https://unity.com/fr\n8:05 Godot https://godotengine.org/\n12:35 Librazik https://librazik.tuxfamily.org/\n13:40 Catia https://kx.studio/Applications:Catia\n13:53 Pipewire https://pipewire.org/\n16:00 Ardour https://ardour.org/\n16:07 LMMS https://lmms.io/lsp/\n16:11 Audacity https://audacity.fr/\n19:45 Dilili à Paris https://fr.wikipedia.org/wiki/Dilili_à_Paris\n20:12 Dordogne https://store.steampowered.com/app/1272840/Dordogne/?l=french\n24:50 Virtual Game https://virtualgame.fr/\n25:50 Krita https://krita.org/fr/\n25:51 Inkscape https://inkscape.org/fr/\n29:52 Houdini https://www.sidefx.com/\n36:06 Libre Graphics Meeting https://libregraphicsmeeting.org/\n36:50 3D avec LibreOffice https://conf.tube/w/15de4a6e-a15f-4bdf-ad38-da4d33f4fcea\n39:00 Jean-Michel Le Caribou http://teliu.online.fr/betises/divers/caribou.txt\n40:40 Suhoshin https://store.steampowered.com/app/1679700/Suhoshin/?l=french\n43:45 Civilisation https://civilization.com/fr-FR/\n44:08 0AD https://play0ad.com/\n44:42 GCompris https://www.gcompris.net/index-fr.html\n46:15 Scribus https://scribus.fr/\n50:55 Natron https://natrongithub.github.io/\n52:25 Twine https://twinery.org/\n53:05 Poedit https://poedit.net/\n53:38 Freeplane https://www.freeplane.org/\n54:07 Kdenlive https://kdenlive.org/fr/\n\nChapitres\n0:00:00 Intro\n0:01:00 Actu JV : Global Game Jam\n0:03:10 Blender / Godot\n0:09:25 L’écosystème libre\n0:11:45 Quels outils pour le son ?\n0:17:40 Créateurs et usagers du libre\n0:20:50 L’histoire d’Activdesign\n0:27:00 Contribuer / piratage / ergonomie / marché de la 3d / survie du logiciel\n0:35:20 Détourner l’usage des logiciels\n0:39:42 Vous jouez ?\n0:45:30 Contributions et demandes\n0:47:33 Tous ensemble VS Tout-en-un\n0:51:51 Kit libre du gamedev\n0:55:40 Événements à Rennes\n0:58:20 Modder du libre\n1:00:13 Activstudio, c’est quoi ?\n1:06:30 Conclusion\n\n#podcast #gamedev #indieandco #libre",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4rKcEqADyjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4rKcEqADyjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4rKcEqADyjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4rKcEqADyjY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4rKcEqADyjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4rKcEqADyjY"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "4rKcEqADyjY",
+      "videoPublishedAt": "2023-03-04T09:00:10Z"
+    },
+    "formattedTitle": "La place du libre dans le gamedev - Avec Cédric & Élisa (Activdesign) | Indie & Co",
+    "type": "podcast",
+    "duration": 4114.390204
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZabUwA1SQBgqThtQtKHsRgONdWU",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnozNlhuZWtpTnpJ",
+    "snippet": {
+      "publishedAt": "2023-02-11T18:00:25Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌍 Restitution Global Game Jam 2023 de Rennes !",
+      "description": "Restitution de la Global Game Jam 2023 qui s'est déroulée du 3 au 5 février 2023 à Activdesign à Rennes ! 48h pour créer un jeu vidéo sur le thème \"Roots\".\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture vidéo-ludique annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochaines game jam en nous suivant sur nos réseaux sociaux :\n➡️ https://linktr.ee/indiecollective\n\n00:00:00 Introduction\n00:03:12 Rooted in Defense\n00:10:04 Hyper Garden\n00:27:20 Tribbit & Nelly's Journey\n00:36:10 Mangroviglio\n00:42:55 Radix\n01:06:27 Bunny Driller\n01:16:16 Mole of Shame\n01:21:40 The First Tree\n01:24:55 Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z36XnekiNzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z36XnekiNzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z36XnekiNzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z36XnekiNzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z36XnekiNzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z36XnekiNzI"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "z36XnekiNzI",
+      "videoPublishedAt": "2023-02-11T18:00:25Z"
+    },
+    "formattedTitle": "Restitution Global Game Jam 2023 de Rennes",
+    "type": "jam",
+    "duration": 5262.129342
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZHl1id7R9tuzQLbg1oKJsHBnKvE",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmhwMGliUmhGZk9r",
+    "snippet": {
+      "publishedAt": "2023-01-28T09:00:07Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Créer des jeux en 48h ? - Avec @SushiFT5 (Jammer) | Indie & Co",
+      "description": "Christophe Torin, alias Sushi (@SushiFT5) nous parle de sa passion pour les jeux musicaux et sa découverte du développement de jeux vidéo. De sa première participation à la Global Game Jam en 2015 à Rennes jusqu’à son attachement acquis au monde des game jams, il en ressort quelques déceptions mais surtout des réussites qu’il retravaille parfois a posteriori pour confirmer ses concepts. En vue d’une future sortie qui sait ?\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées\nWuki Wuki https://assowukiwuki.fr/\nYosakoi https://www.youtube.com/watch?v=hiBF-KwQE1k\nGDQ / AGDQ https://gamesdonequick.com/\nASDF Movie https://www.youtube.com/playlist?list=PL6HF94r1ogByYa2xFAXIE_1Pw-K0AU_Vd\nSkweek https://fr.wikipedia.org/wiki/Skweek\nFrets on Fire https://fretsonfire.sourceforge.net/\nDDR https://fr.wikipedia.org/wiki/Dance_Dance_Revolution\nChuChu Rocket! https://fr.wikipedia.org/wiki/ChuChu_Rocket!\nSuper Nova Drifters https://sushift5.itch.io/super-nova-drifters-alpha\nCosmoles: Geriatric Warfare II https://globalgamejam.org/2018/games/cosmoles-geriatric-warfare-ii\nUltimate Marco Polo League (version Jam) https://sushift5.itch.io/marcopolo-jam\nUltimate Marco Polo League https://sushift5.itch.io/marcopolo\nSkybolt Zack https://store.steampowered.com/app/909670/Skybolt_Zack/\nRe:beat https://globalgamejam.org/2016/games/rebeat\nP.T https://fr.wikipedia.org/wiki/P.T.\nElder balls https://globalgamejam.org/2017/games/elder-balls\n\n0:00 Intro\n0:53 Pourquoi Sushi ?\n2:46 Associations et activité\n6:10 Événements récents\n8:19 Rencontre avec le JV\n18:32 Première game jam\n20:58 Lancement dans la création JV\n28:57 Premières jams\n35:30 Conseils pour débutant\n38:20 Meilleure réussite en jam : Ultime Marco Polo League\n46:05 Pourquoi lancer son jeu sur Steam ?\n53:16 Déceptions de jam\n59:44 Pétanque de l’espace\n1:04:41 Les bons conseils pour une game jam\n1:07:26 GGJ Rennes et Conclusion\n\n#indieandco #podcast #gamedev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hp0ibRhFfOk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hp0ibRhFfOk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hp0ibRhFfOk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hp0ibRhFfOk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hp0ibRhFfOk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hp0ibRhFfOk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "hp0ibRhFfOk",
+      "videoPublishedAt": "2023-01-28T09:00:07Z"
+    },
+    "formattedTitle": "Créer des jeux en 48h ? - Avec @SushiFT5 (Jammer) | Indie & Co",
+    "type": "podcast",
+    "duration": 4155.071565
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "yYQxJwN_3gMhRT1Juq96WffU7Nw",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkNSY1VEUkp0VUFr",
+    "snippet": {
+      "publishedAt": "2022-12-17T09:00:09Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "La voie d'un Sound Designer - Avec @TOMAvatars (Concrete Games) | Indie & Co",
+      "description": "Tomavatars (@TOMAvatars) nous raconte son parcours de sound designer et de développeur qui l’ont amené à travailler sur de nombreux projets interactifs, à co-fonder le studio de jeux vidéo Concrete Games (@concretegames1664) en 2017 et plus récemment son projet personnel Square Paper City pour lequel il a reçu un MegaGrants d’Epic Games en 2021.\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées\nEumolpe https://www.facebook.com/eumolpe/\nLazy Frogs Collective https://lazy-frogs-collective.itch.io/\nMacGuffin https://store.steampowered.com/app/398930/MacGuffin/\n1Shot1Kill / Wondershot https://store.steampowered.com/app/430190/Wondershot/\nInterview MacGuffin au Stunfest 2016 https://www.youtube.com/watch?v=Z-q61tTZ7p8\nSdee & Dave\nVectronom https://vectronom.arte.tv/fr/home-2/\nHumano Plancton https://vimeo.com/169516167\nHyperun https://store.steampowered.com/app/565390/Hyperun/\nMatter https://store.steampowered.com/app/978250/Matter/\nStunfest Mega Glitch https://concretegames.itch.io/stunfestmegaglitch\nGrotoro https://store.steampowered.com/app/825580/Grotoro/\nPublic Enemy https://store.steampowered.com/app/1125870/Public_Enemy_Revolution_Simulator/\nThumper https://thumpergame.com\nJanga https://store.steampowered.com/app/1106700/Janga/\nSquare Paper City https://store.steampowered.com/app/1444980/Playhear__Square_Paper_City/\n\n0:00 Introduction\n1:54 Pourquoi Tomavatars ?\n5:37 Devenir sound designer JV\n12:44 Hacker le Stunfest\n17:50 Concrete Games\n24:57 Lancement d’un jeu, quelle stratégie ?\n29:00 La communauté Concrete\n32:20 Jeu du Stunfest, Grotoro, Public Enemy…\n41:42 Janga : un protocole scientifique\n47:15 La chute de Concrete Games\n50:00 Square Paper City : un album jouable\n57:33 La suite ? Epic Grant, concerts…\n1:00:00 Conclusion\n\n#indieandco #podcast #gamedev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CRcUDRJtUAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CRcUDRJtUAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CRcUDRJtUAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CRcUDRJtUAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CRcUDRJtUAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CRcUDRJtUAk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "CRcUDRJtUAk",
+      "videoPublishedAt": "2022-12-17T09:00:09Z"
+    },
+    "formattedTitle": "La voie d'un Sound Designer - Avec @TOMAvatars (Concrete Games) | Indie & Co",
+    "type": "podcast",
+    "duration": 3742.174331
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "DGghyxWnzI7geK_hZ6alVA3uuqU",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnQ3T013ZFZQQnlZ",
+    "snippet": {
+      "publishedAt": "2022-11-05T18:05:00Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "👻 Octojam 2022 : Soirée de restitution !",
+      "description": "L'Octojam 2022 s'est tenue à l'édulab Pasteur, à Rennes, les 28-29-30 octobre ! Pendant ce week-end, une dizaine de jammers ont créé 3 projets autour d'un thème généré par une IA, DALL·E 2, à partir d'un prompt composé d'un mot donné par chacun.  \n\n⚠️ Petit problème de son pendant la présentation du thème, il revient après pour la présentation des jeux.\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !  \n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\n🤙 Nous suivre :\nTwitter : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\n\nRestitution diffusée le dimanche 30 octobre 2022 sur https://www.twitch.tv/indiecollective\n\n0:00 Introduction\n5:54 Super Reaktor\n13:36 Bullets For My Gull\n21:30 Boogey Mouse\n29:45 Conclusion\n\n#gamejam #indie #rennes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t7OMwdVPByY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t7OMwdVPByY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t7OMwdVPByY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t7OMwdVPByY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t7OMwdVPByY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t7OMwdVPByY"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "t7OMwdVPByY",
+      "videoPublishedAt": "2022-11-05T18:05:00Z"
+    },
+    "formattedTitle": "Octojam 2022 : Soirée de restitution",
+    "type": "jam",
+    "duration": 1971.09551
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "CpV9-Xyd6QmTPyk69l1xbu-KMVY",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLjNDeDY3SVdaVjRF",
+    "snippet": {
+      "publishedAt": "2022-10-22T08:00:13Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Monter une boîte dans le Jeu Vidéo - Avec Corto (Wild Wits Games) | Indie & Co",
+      "description": "Corto nous parle de son rapport aux jeux vidéo et au game design qui l'ont amené à tout plaquer en 2020 et s'entourer alors de talentueuses personnes pour lancer un studio Wild Wits Games (@wildwitsgames), avec l'objectif de voir grand. En 2021, le studio révèle son premier jeu, Aetheris et boucle un Kickstarter de plus de 30000€ et 533 contributeurs.\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées :\nFinal Fantasy VI\nResident Evil 1 et 2\nFinal Fantasy 9\nAge of Empires\nWarcraft 3\nDOTA\nDofus\nLeague of Legends\nLife is Strange\nDiablo 3\nA Way Out\nDivinity 2\nAetheris\nGax (Dir art, Guy-Pascal Vallez) http://vallezgax.com/\nFallout\nKickstarter d'Aetheris https://www.kickstarter.com/projects/wild-wits-games/aetheris-the-game\nUndertale\nDarkest dungeon\nFaster Than Light (FTL)\nThe Last of Us 1 et 2\nThe Witcher 3\nCyberpunk 2077\nHalf-Life\nOutlast\nSilent Hill\nMetal Gear Solid 2\n\n0:00 Intro\n1:29 Leak GTA 6\n4:54 Découverte du JV\n13:50 Lancement de Wild Wilts Games\n23:18 Kickstarter\n26:24 Un studio ambitieux\n32:20 Jeux indés\n34:12 Pierres angulaires du JV\n39:47 Spoil : The Last of Us 2\n41:18 Pierres angulaires du JV\n42:00 Événements / Stunfest\n46:50 La Maison du Jeu Vidéo\n49:34 La suite\n50:05 Conclusion\n\n#podcast #indie #game #rennes #gta6",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Cx67IWZV4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Cx67IWZV4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Cx67IWZV4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Cx67IWZV4E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Cx67IWZV4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3Cx67IWZV4E"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "3Cx67IWZV4E",
+      "videoPublishedAt": "2022-10-22T08:00:13Z"
+    },
+    "formattedTitle": "Monter une boîte dans le Jeu Vidéo - Avec Corto (Wild Wits Games) | Indie & Co",
+    "type": "podcast",
+    "duration": 3074.786395
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fUafu6I65hohb6lovLx6s4na9L8",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkZ3ejZFSXhveEVB",
+    "snippet": {
+      "publishedAt": "2022-09-24T08:00:27Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Une Maison du Jeu Vidéo à Rennes - Avec Basile (Piksel Club) | Indie & Co",
+      "description": "Dans cet épisode, Basile revient sur son histoire, son rapport au jeu vidéo et comment l'idée lui est venue de rassembler un collectif d'acteurs locaux autour du Piksel Club en 2017 pour proposer le projet d'une Maison du Jeu Vidéo au budget participatif de Rennes.\n\n🎉 La Maison du Jeu Vidéo est là : https://www.lamaisondujeuvideo.com/ 🎉\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées :\nAvion 2 / SOPWITH II (DOS)\nMonkey Island https://store.steampowered.com/app/730820/The_Curse_of_Monkey_Island/\nGolden Axe\nPort of Call\nThe Legend of Zelda : Ocarina of Time\nA MAZE. https://amaze-berlin.de \nagar.io https://agar.io\nChalo Chalo https://store.steampowered.com/app/410000/Chalo_Chalo/?l=french\nUse Your Words https://useyourwords.lol/\nCliffhanger (de ElefantCat) https://www.elefantcat.com\nCordialement (de Play Fool) http://www.play-fool.net/cordialement\nTortues Ninja / Joueur du Grenier https://youtu.be/bHHeoDmqdKQ\nGargoyle's Quest\nCastlevania\nSim City\nTheme Park\nLa Maison du Jeu Vidéo https://www.lamaisondujeuvideo.com/\n\n0:00 Intro\n1:20 Enfance et jeu vidéo\n5:14 Jeux indés et produit culturel\n14:48 Jeux marquants\n20:44 Les origines du Piksel Club\n27:02 Le but du Piksel Club\n30:32 La Maison du Jeu Vidéo\n43:32 Retombées et intérêt pour le projet\n50:12 Conclusion\n\n#podcast #indie #game #rennes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fwz6EIxoxEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fwz6EIxoxEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fwz6EIxoxEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fwz6EIxoxEA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fwz6EIxoxEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Fwz6EIxoxEA"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "Fwz6EIxoxEA",
+      "videoPublishedAt": "2022-09-24T08:00:27Z"
+    },
+    "formattedTitle": "Une Maison du Jeu Vidéo à Rennes - Avec Basile (Piksel Club) | Indie & Co",
+    "type": "podcast",
+    "duration": 3177.557914
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "-5bUYIHvi1G-VNZbBBjCQEQr1zA",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlNjUWlYcGw3NTZB",
+    "snippet": {
+      "publishedAt": "2022-05-18T22:47:16Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Stunfest 2022 Indies Trailer",
+      "description": "Trailer des jeux présents aux Indie Awards du Stunfest 2022, festival de jeu vidéo à Rennes.\n\nPour retrouver la liste complète des jeux : https://indie.stunfest.com/2022/\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de jeu vidéo annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nBande-son : AdhesiveWombat - Night Shade\n\nDans l'ordre d'apparition :\nFufufu - Potofu Studio https://store.steampowered.com/app/2025050/FUFUFU/?curator_clanid=42527171\nCaptain Velvet Meteor : The Jump + Dimensions - Momo-Pi Game Studio https://store.steampowered.com/app/2222950/Captain_Velvet_Meteor_The_Jump_Dimensions/?curator_clanid=42527171\nCrispr Crunch - Play Curious https://playcurious.games/crispr-crunch/\nEssence Of The Tjikko - La Revria Studio https://store.steampowered.com/app/1783740/Essence_Of_The_Tjikko__Prologue/?curator_clanid=42527171\nBibots - Square Squid https://store.steampowered.com/app/1610500/Bibots/?curator_clanid=42527171\nCassiodora - Void Studios https://store.steampowered.com/app/1708550/Cassiodora/?curator_clanid=42527171\nAetheris - Wild Wits Games https://store.steampowered.com/app/1786010/AETHERIS/?curator_clanid=42527171\nDice Of Olympus - Bathyscaphe Studio https://store.steampowered.com/app/1515580/Dice_Of_Olympus/?curator_clanid=42527171\nHow To Say Goodbye - Florian Veltman https://store.steampowered.com/app/1709700/How_to_Say_Goodbye/?curator_clanid=42527171\nHelvetii - Team KwaKwa https://helvetii-game.com/\nSaviorless - Empty Head Games https://store.steampowered.com/app/1438480/Saviorless/?curator_clanid=42527171\nSwordship - Digital Kingdom https://store.steampowered.com/app/1804270/Swordship/?curator_clanid=42527171\nTavernacle! - Dama Dama Games https://store.steampowered.com/app/1937820/Tavernacle/?curator_clanid=42527171\nNinza - Klakmioch https://www.ninza-game.com/\nPaquerette Down The Bunburrows - Bunstack https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/?curator_clanid=42527171\nRuggnar - Sword N' Wands https://store.steampowered.com/app/1303050/Ruggnar/?curator_clanid=42527171\nRacine - Dark Root Gardeners https://store.steampowered.com/app/1793170/Racine/?curator_clanid=42527171\nSclash - Bevel Bakery https://store.steampowered.com/app/1284130/Sclash/?curator_clanid=42527171\nTime Rift - Lightshards https://store.steampowered.com/app/1257660/Time_Rift/?curator_clanid=42527171\nZigglox - Giant Rabbit Games https://store.steampowered.com/app/1514880/Zigglox/?curator_clanid=42527171\nTo Hell With The Ugly - La Poule Noire https://store.steampowered.com/app/1455450/To_Hell_With_The_Ugly/?curator_clanid=42527171\nNick Reckless In The Curse Of The Lost Cause - Akedo Studio https://store.steampowered.com/app/1190190/Nick_Reckless_in_The_Curse_of_the_Lost_Cause/?curator_clanid=42527171\nMage Noir - Infinity - Double Combo Games https://store.steampowered.com/app/1542140/Mage_Noir__Infinity/?curator_clanid=42527171\nHypercore : Rhythm Bullet Hell - Gameinaframe https://store.steampowered.com/app/1112390/HyperCore__Rhythm_Bullet_Hell/?curator_clanid=42527171\nInua : A Story In Ice And Time - The Pixel Hunt https://store.steampowered.com/app/1479890/Inua__A_Story_in_Ice_and_Time/?curator_clanid=42527171",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ScQiXpl756A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ScQiXpl756A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ScQiXpl756A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ScQiXpl756A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ScQiXpl756A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ScQiXpl756A"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "ScQiXpl756A",
+      "videoPublishedAt": "2022-05-18T22:47:16Z"
+    },
+    "formattedTitle": "Stunfest 2022 Indies Trailer",
+    "type": "stunfest",
+    "duration": 204.103401
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fEZSdQYrXaZD9Yat9w3EfsCZ_go",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkVoLVgxeVE2T3Vj",
+    "snippet": {
+      "publishedAt": "2022-04-09T08:00:12Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Une communauté de création de jeux vidéo à Rennes - Avec Indie Collective | Indie & Co",
+      "description": "Dans cet épisode pilote, on revient sur l'histoire d'Indie Collective, association de mise en avant de la création vidéo-ludique à Rennes. De la création du collectif et de l'organisation de game jams en passant par la fondation de l'association et de sa participation au festival rennais Stunfest, jusqu'aux nouveaux partenariats et la création de ce podcast et des projets pour la suite.\n\nIndie & Co est un podcast proposé par Indie Collective. Découvrez les coulisses de la création d'un jeu vidéo, le parcours personnel et professionnel d'intervenants issus du monde indépendant.\nVous pouvez également la retrouver en audio sur https://anchor.fm/indieandco.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo. https://indieco.xyz\n\nRéférences mentionnées :\nFestival Stunfest https://www.stunfest.com/\nThe Great Paper Adventure https://team-monique.itch.io/the-great-paper-adventure\nMonique Passion Hôtesse de Caisse https://team-monique.itch.io/monique-passion-htesse-de-caisse\nLije https://rufflerim.itch.io/lije\nSite officiel de la Global Game Jam https://globalgamejam.org/\nFestival ADDON https://addon.events/\nOut There http://www.outtheregame.com/\nHyperun https://store.steampowered.com/app/565390/Hyperun/?l=french\nSave Me Mr Tako https://store.steampowered.com/app/1472540/Save_me_Mr_Tako_Definitive_Edition/\nVilla Kujoyama https://www.villakujoyama.jp/\nLa (fausse) page wikipédia de JMJ https://jmj.indieco.xyz/\nConsultation citoyenne  https://fabriquecitoyenne.rennes.fr/projects/budget-participatif-3/collect/depot-des-projets-2/proposals/creons-un-lieu-culturel-pour-le-jeu-video\nLe projet Community https://community.indieco.xyz/\nWar Stories https://www.youtube.com/watch?v=Y7f0YtzWBG4\n\n0:00 Intro\n3:00 Comment le collectif s’est constitué\n20:50 Global Game Jam de Rennes\n28:40 Création de l’association\n46:40 Jean-Michel Jam\n52:55 Faire des jams en temps de confinement\n1:00:01 Hôtel Pasteur et édulab\n1:07:14 Partenariats\n1:12:13 Mettre en avant la création / 0h game jam\n1:18:20 Stunfest 2022\n1:24:37 Maison du Jeu Vidéo\n1:28:45 Community\n1:30:40 Podcast\n1:35:40 Conclusion\n\n#podcast #indie #game #rennes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Eh-X1yQ6Ouc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Eh-X1yQ6Ouc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Eh-X1yQ6Ouc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Eh-X1yQ6Ouc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Eh-X1yQ6Ouc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Eh-X1yQ6Ouc"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "Eh-X1yQ6Ouc",
+      "videoPublishedAt": "2022-04-09T08:00:12Z"
+    },
+    "formattedTitle": "Une communauté de création de jeux vidéo à Rennes - Avec Indie Collective | Indie & Co",
+    "type": "podcast",
+    "duration": 6000.105941
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "IwwbvLWNosjPrDEs8WhFrrj-YSk",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlAwa0FybmExUUcw",
+    "snippet": {
+      "publishedAt": "2022-02-20T09:00:08Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌍 GGJ 2022 Rennes : Restitution !",
+      "description": "Restitution de la Global Game Jam 2022 qui s'est déroulée du 28 au 30 janvier 2022 sur Discord. 48h pour créer un jeu vidéo sur le thème \"Duality\".\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochains événements sur nos réseaux sociaux :\n➡️ https://linktr.ee/indiecollective\n\n00:00 Introduction\n12:00 Recto-verso\n20:21 Citizen Âne\n36:30 Flower Me To The Moon\n46:40 Tilt\n56:37 Schrödinger's Cat\n1:06:39 Photon\n1:17:17 Nature of Civilization\n1:29:18 Cart'O Pirates\n1:41:49 Lisbeï Rythm Adventure\n1:51:11 Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P0kArna1QG0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P0kArna1QG0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P0kArna1QG0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P0kArna1QG0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P0kArna1QG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "P0kArna1QG0"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "P0kArna1QG0",
+      "videoPublishedAt": "2022-02-20T09:00:08Z"
+    },
+    "formattedTitle": "GGJ 2022 Rennes : Restitution",
+    "type": "jam",
+    "duration": 7293.039456
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HFp3estpYJJ8Xrp9QQD8iWIBayA",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkJSZzBoN3dBeFM4",
+    "snippet": {
+      "publishedAt": "2021-12-26T08:00:04Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🎞️ 4D Jam : Restitution des projets au Théâtre National de Bretagne",
+      "description": "Restitution de la 4D jam qui s'est déroulée du 17 au 19 décembre 2021 au TNB et à l'édulab Pasteur. 48h pour créer un jeu vidéo sur le thème de Peau d'Âne de Jacques Demy.\n\nÉvénement dans le cadre de 4D : découvrir, décrypter, décloisonner, décomplexer les images - nouveau temps fort du cinéma du TNB.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochains événements sur nos réseaux sociaux :\n➡️ https://linktr.ee/indiecollective\n\n00:00 Introduction\n02:37 Premier jeu : Podann Point Exe\n20:42 Deuxième jeu : Peau de Loup\n40:02 Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BRg0h7wAxS8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BRg0h7wAxS8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BRg0h7wAxS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BRg0h7wAxS8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BRg0h7wAxS8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BRg0h7wAxS8"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "BRg0h7wAxS8",
+      "videoPublishedAt": "2021-12-26T08:00:04Z"
+    },
+    "formattedTitle": "4D Jam : Restitution des projets au Théâtre National de Bretagne",
+    "type": "jam",
+    "duration": 2667.810249
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2LZXCgsgic-BCjd3JCCn0HJ2UkM",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLloya2pYMXBnZ09B",
+    "snippet": {
+      "publishedAt": "2021-12-11T08:00:09Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Présentation de l'association Indie Collective",
+      "description": "Indie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochains événements sur nos réseaux sociaux :\nhttps://twitter.com/IndieColle\nhttps://facebook.com/IndieColle\nhttps://www.instagram.com/indiecolle/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z2kjX1pggOA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z2kjX1pggOA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z2kjX1pggOA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z2kjX1pggOA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z2kjX1pggOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z2kjX1pggOA"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "Z2kjX1pggOA",
+      "videoPublishedAt": "2021-12-11T08:00:09Z"
+    },
+    "formattedTitle": "Présentation de l'association Indie Collective",
+    "type": "misc",
+    "duration": 1560.055873
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jgbC5in3KEbFajuGOIFqGR_VKqo",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmRRVnczRFNwalVR",
+    "snippet": {
+      "publishedAt": "2021-12-04T08:00:24Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Rétrospective : 10 ans de zone indé Stunfest !",
+      "description": "On revient ensemble sur la création de la zone indé au Stunfest du tout début, faite de projets amateurs, jusqu'aux récentes éditions qui accueillent maintenant une quarantaine de projets venus de toute la France et d'ailleurs.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochains événements sur nos réseaux sociaux :\nhttps://twitter.com/IndieColle\nhttps://facebook.com/IndieColle\nhttps://www.instagram.com/indiecolle/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dQVw3DSpjUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dQVw3DSpjUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dQVw3DSpjUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dQVw3DSpjUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dQVw3DSpjUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dQVw3DSpjUQ"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "dQVw3DSpjUQ",
+      "videoPublishedAt": "2021-12-04T08:00:24Z"
+    },
+    "formattedTitle": "Rétrospective : 10 ans de zone indé Stunfest",
+    "type": "podcast",
+    "duration": 8761.492608
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "a1LvB67-EBSalbxPMWLXiwTtJug",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkp4cV95UHNneWNR",
+    "snippet": {
+      "publishedAt": "2021-11-28T08:00:05Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Rétrospective : Rennes, 10 ans de game jams !",
+      "description": "On revient ensemble sur 10 ans de game jams et de jeux créés pendant toutes ces années à Rennes mais également sur toutes nos réalisations dont nous sommes plus (mais surtout moins) fiers. Témoignages en tant qu'anciens visiteurs, participants et organisateurs.\n\nDepuis, la scène indé s'est étoffée, d'autres jams ont fait leur apparition à Rennes et les projets ont pris en professionnalisme.\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création vidéo-ludique. Elle participe également à l'organisation de la zone indé du Stunfest, festival de culture annuel organisé par l'association 3 Hit Combo.\n\nRetrouvez nos prochains événements sur nos réseaux sociaux :\nhttps://twitter.com/IndieColle\nhttps://facebook.com/IndieColle\nhttps://www.instagram.com/indiecolle/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jxq_yPsgycQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jxq_yPsgycQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jxq_yPsgycQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jxq_yPsgycQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jxq_yPsgycQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Jxq_yPsgycQ"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "Jxq_yPsgycQ",
+      "videoPublishedAt": "2021-11-28T08:00:05Z"
+    },
+    "formattedTitle": "Rétrospective : Rennes 10 ans de game jams",
+    "type": "podcast",
+    "duration": 7324.572154
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "XXfs0IL9h7JsiWW4Sm_5DP-lSLo",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLnFGQTZ6TFoyd0Fr",
+    "snippet": {
+      "publishedAt": "2021-11-07T09:00:29Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "👻 Octojam 2021 : Soirée de restitution !",
+      "description": "L'Octojam 2021 s'est tenue cette année en format hybride, en présentiel à l'édulab Pasteur à Rennes et en distanciel sur Discord. Il s'agissait de créer des jeux sur un week-end entier (48h) autour d'un thème donné : \"Les lavandières de la nuit\" de Victor Lemonnier, œuvre tout droit sortie des archives du Musée des Beaux-Arts de Rennes.\n\nNos game jam ne sont pas des compétitions : c'est un temps de partage autour de la création de jeu entre passionnés et curieux ! Aucune compétence requise !\n\nSoyez prévenus des prochains événements organisés par Indie Collective sur les réseaux sociaux d'Indie Collective !\nTwitter : https://twitter.com/IndieColle\nTwitch : https://twitch.tv/indiecollective\n\n00:00 : Introduction\n03:56 : Premier jeu\n22:11 : Deuxième jeu, Rincé\n38:14 : Alarme\n39:37 : Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qFA6zLZ2wAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qFA6zLZ2wAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qFA6zLZ2wAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qFA6zLZ2wAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qFA6zLZ2wAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qFA6zLZ2wAk"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "qFA6zLZ2wAk",
+      "videoPublishedAt": "2021-11-07T09:00:29Z"
+    },
+    "formattedTitle": "Octojam 2021 : Soirée de restitution",
+    "type": "jam",
+    "duration": 2474.805986
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jFjeCe-F8pq8UnWxrJmrkR8BRrE",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlg1anV4NUhPdUVZ",
+    "snippet": {
+      "publishedAt": "2021-06-03T17:00:12Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🕹️ Stunjam 2021 - Soirée de restitution 🥳",
+      "description": "Depuis 2015, l’association 3 Hit Combo et Indie Collective organisent une game jam en parallèle du festival, la StunJam est donc un marathon de création de jeu ! Le principe de ce week-end est d’inviter celles et ceux qui le souhaitent à créer un jeu (jeu vidéo, jeu de plateau ou forme hybride…) avec une thématique commune, le tout en seulement 48 heures. L'événement s'est déroulé sur Discord et Twitch en distanciel mais également en présentiel à l'Édulab dans l'Hôtel Pasteur à Rennes.\n\n0:00:00 - Introduction\n0:03:10 - Noot Legends\n0:18:18 - Fish & Trip\n0:33:28 - Igloo Lava Panic\n0:43:06 - Carte Blanche\n0:53:08 - Memories\n1:03:56 - L'Édulab et la suite",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X5jux5HOuEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X5jux5HOuEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X5jux5HOuEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X5jux5HOuEY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X5jux5HOuEY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "X5jux5HOuEY"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "X5jux5HOuEY",
+      "videoPublishedAt": "2021-06-03T17:00:12Z"
+    },
+    "formattedTitle": "Stunjam 2021 - Soirée de restitution",
+    "type": "jam",
+    "duration": 4230.582857
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "gDQrr5gEq3UR4SpGmVDeCJuWRYo",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLlRTMWxtem5lU21F",
+    "snippet": {
+      "publishedAt": "2021-02-01T17:00:11Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "🌍 Global Game Jam 2021 Rennes - Grande soirée de restitution ! 🥳",
+      "description": "Soirée de restitution de la Global Game Jam Online 2021 !\n\nRetrouvez-vous sur\nTwitter : https://twitter.com/IndieColle\nFacebook : https://twitter.com/IndieColle\nTwitch : https://twitch.tv/indiecollective\nDiscord : https://discord.com/invite/hH5J88z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TS1lmzneSmE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TS1lmzneSmE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TS1lmzneSmE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TS1lmzneSmE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TS1lmzneSmE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TS1lmzneSmE"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "TS1lmzneSmE",
+      "videoPublishedAt": "2021-02-01T17:00:11Z"
+    },
+    "formattedTitle": "Global Game Jam 2021 Rennes - Grande soirée de restitution",
+    "type": "jam",
+    "duration": 9980.215147
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "vyOdCT89T4zy01VZMRN4xIgBE9A",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLkQ3Q1dwTVhQTXA4",
+    "snippet": {
+      "publishedAt": "2020-10-26T11:33:13Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "👻 OctoJam 2020 - Grande Soirée de Restitution !",
+      "description": "Soirée de restitution de l'octojam 2020 ! Première édition entièrement en ligne !\n\nRetrouvez-vous sur\nTwitter : https://twitter.com/IndieColle\nFacebook : https://twitter.com/IndieColle\nTwitch : https://twitch.tv/indiecollective\nDiscord : https://discord.com/invite/hH5J88z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D7CWpMXPMp8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D7CWpMXPMp8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D7CWpMXPMp8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D7CWpMXPMp8"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "D7CWpMXPMp8",
+      "videoPublishedAt": "2020-10-26T11:33:13Z"
+    },
+    "formattedTitle": "OctoJam 2020 - Grande Soirée de Restitution",
+    "type": "jam",
+    "duration": 1500.543129
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "IOfuaMBpvRALub_rY13OSNSZOBg",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLm9lS2xJRkFSWFQ4",
+    "snippet": {
+      "publishedAt": "2015-05-20T22:54:54Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Stunfest 2015 Indies Trailer",
+      "description": "Trailer des jeux indépendants présents lors du Stunfest 2015 les 22, 23 et 24 mai au Liberté à Rennes.\n\nVous pouvez retrouver tous les jeux présents au Stunfest 2015 à cette adresse : http://indie.stunfest.fr/2015/\nPlus d'informations sur le festival : http://stunfest.fr\nLe West Indie Collective est devenu Indie Collective, plus d'informations : https://indieco.xyz\n\nJeux présents dans la vidéo par ordre d'apparition :\n\nInterference\nhttp://interference-game.com/\n\n--\n\nBox Out!\nhttp://www.dapickymonkey.com/sheet.php?p=Box_Out!\n\nAbstract Pixel Run! (en haut)\nhttp://abstractpixelgames.com\n\nRaids of Nohosphere (en bas)\nhttp://rono.fr/\n\nGoetia\nhttp://playgoetia.com/\n\nTasukete Tako-San - Save me Mr Tako! (au centre)\nhttp://www.indiedb.com/games/tasukete-tako-san-save-me-mr-tako\n\nSplasher (à droite)\nhttp://www.splasher-game.com/\n\nLethis - Path of Progress\nhttp://lethispop.com/\n\nTetrobot and Co.\nhttp://www.tetrobot.com\n\nMacGuffin\nhttp://macguffin-game.com/\n\nSynchrom\nhttp://www.synchromthegame.com/\n\nDrifting Lands\nhttp://www.drifting-lands.com/\n\nSteredenn\nhttp://steredenn.pixelnest.io/\n\nNandeyanen!?\nhttp://www.tchagata.com/\n\nLASTFIGHT\nhttp://www.lastfightgame.com/\n\nIlios ~ Betrayal of Gods\nhttp://www.ilios-thegame.com/\n\nIsbarah (à gauche)\nhttp://www.leikir-studio.com/isbarah\n\n1 Shot 1 Kill (à droite)\nhttps://www.facebook.com/1shot1killthegame\n\nWin That War (à droite)\nhttp://www.winthatwar.com\n\nCrowntakers (à gauche)\nhttp://www.bulwarkstudios.com/\n\nCrowd Smashers (à droite)\nhttp://www.crowdsmashers.com/\n\nLavapools (à gauche)\nhttp://lavapools.com/\n\nDomiverse\nhttp://www.domiverse.be/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oeKlIFARXT8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oeKlIFARXT8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oeKlIFARXT8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oeKlIFARXT8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oeKlIFARXT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oeKlIFARXT8"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "oeKlIFARXT8",
+      "videoPublishedAt": "2015-05-20T22:54:54Z"
+    },
+    "formattedTitle": "Stunfest 2015 Indies Trailer",
+    "type": "stunfest",
+    "duration": 64.040635
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "dat62cK1AuuFEMpnSfS3mRJExd0",
+    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLm5IZEFmdG5kZmhF",
+    "snippet": {
+      "publishedAt": "2014-05-11T15:00:22Z",
+      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
+      "title": "Stunfest 2014 Indies Trailer",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nHdAftndfhE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nHdAftndfhE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nHdAftndfhE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nHdAftndfhE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nHdAftndfhE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indie Collective",
+      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nHdAftndfhE"
+      },
+      "videoOwnerChannelTitle": "Indie Collective",
+      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
+    },
+    "contentDetails": {
+      "videoId": "nHdAftndfhE",
+      "videoPublishedAt": "2014-05-11T15:00:22Z"
+    },
+    "formattedTitle": "Stunfest 2014 Indies Trailer",
+    "type": "stunfest",
+    "duration": 225.0478
+  }
+]
