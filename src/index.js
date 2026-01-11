@@ -16,25 +16,25 @@ class VideoStack {
 
     async initialize() {
         if (this.initialized) return;
-        
+
         try {
             const files = await fs.promises.readdir('data');
             const jsonFiles = files.filter(file => file.endsWith('.json'));
-            
+
             if (jsonFiles.length === 0) {
                 this.latestPath = path.join('data', 'default.json');
             } else {
                 const stats = await Promise.all(
-                    jsonFiles.map(file => 
+                    jsonFiles.map(file =>
                         fs.promises.stat(path.join('data', file))
                             .then(stat => ({ file, mtime: stat.mtime }))
                     )
                 );
-                
+
                 const latest = stats.sort((a, b) => b.mtime - a.mtime)[0];
                 this.latestPath = path.join('data', latest.file);
             }
-            
+
             await this.refresh();
             this.initialized = true;
         } catch (error) {
@@ -46,7 +46,7 @@ class VideoStack {
     async refresh() {
         if (this.lock) return;
         this.lock = true;
-        
+
         try {
             if (this.stack.length === 0) {
                 const data = await fs.promises.readFile(this.latestPath, 'utf-8');
@@ -128,7 +128,7 @@ app.get('/videos/:filename', async (req, res) => {
     }
 
     const filePath = path.join(config.PATHS.VIDEOS, filename);
-    
+
     try {
         // Check if file exists asynchronously
         await fs.promises.access(filePath, fs.constants.F_OK);
@@ -160,10 +160,10 @@ app.get('/videos/:filename', async (req, res) => {
             };
 
             res.writeHead(206, headers);
-            
+
             // Stream the video chunk
             const stream = fs.createReadStream(filePath, { start, end });
-            
+
             // Handle stream errors
             stream.on('error', (error) => {
                 console.error('Stream error:', error);
@@ -173,12 +173,12 @@ app.get('/videos/:filename', async (req, res) => {
                     res.end();
                 }
             });
-            
+
             // Handle client disconnect
             req.on('close', () => {
                 stream.destroy();
             });
-            
+
             stream.pipe(res);
         } else {
             const headers = {
@@ -190,10 +190,10 @@ app.get('/videos/:filename', async (req, res) => {
             };
 
             res.writeHead(200, headers);
-            
+
             // Stream the entire video
             const stream = fs.createReadStream(filePath);
-            
+
             // Handle stream errors
             stream.on('error', (error) => {
                 console.error('Stream error:', error);
@@ -203,12 +203,12 @@ app.get('/videos/:filename', async (req, res) => {
                     res.end();
                 }
             });
-            
+
             // Handle client disconnect
             req.on('close', () => {
                 stream.destroy();
             });
-            
+
             stream.pipe(res);
         }
     } catch (error) {
@@ -250,6 +250,7 @@ class BrowserManager {
                     '--no-zygote',
                     '--disable-gpu',
                     '--autoplay-policy=no-user-gesture-required',
+                    '--start-fullscreen',
                 ],
                 ignoreDefaultArgs: ['--mute-audio', '--hide-scrollbars'],
                 defaultViewport: null
@@ -257,7 +258,7 @@ class BrowserManager {
 
             const context = this.browser.defaultBrowserContext();
             await context.overridePermissions(serverUrl, []);
-            
+
             const pages = await this.browser.pages();
             this.page = pages[0];
             await this.page.setDefaultNavigationTimeout(60000); // 60 seconds timeout
@@ -307,7 +308,7 @@ class BrowserManager {
                     element.className = 'error';
                 });
             }
-            
+
             if (!this.isShuttingDown) {
                 console.log('Reloading page due to error...');
                 await this.page.reload({ waitUntil: 'networkidle2' });
@@ -326,9 +327,9 @@ class BrowserManager {
 
         this.retryCount++;
         const delay = this.retryDelay * this.retryCount;
-        
+
         console.log(`Retrying browser launch in ${delay}ms (attempt ${this.retryCount}/${this.maxRetries})`);
-        
+
         setTimeout(async () => {
             if (!this.isShuttingDown) {
                 await this.launchBrowser(serverUrl);
@@ -338,7 +339,7 @@ class BrowserManager {
 
     async cleanup() {
         this.isShuttingDown = true;
-        
+
         if (this.browser) {
             try {
                 const pages = await this.browser.pages();
@@ -376,7 +377,7 @@ const server = app.listen(config.SERVER.PORT, config.SERVER.HOST, async () => {
     const serverUrl = `http://${host}:${port}`;
 
     console.log(`Server running at ${serverUrl}`);
-    
+
     // Launch browser after server starts
     browserManager.launchBrowser(serverUrl).then(async (page) => {
         if (page) {
