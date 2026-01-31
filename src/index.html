@@ -13,7 +13,7 @@
         <audio id="snow-audio" loop src="/assets/snow.mp3"></audio>
     </span>
     <span id="videoContainer">
-        <video id="videoPlayer"></video>
+        <video id="videoPlayer" playsinline></video>
         <span id="details">
             <span id="category"></span>
             <span id="full-title">
@@ -22,5 +22,193 @@
             </span>
         </span>
     </span>
+
+    <script>
+        (async function() {
+            // Fetch config from server
+            const config = await fetch('/api/config').then(res => res.json());
+
+            // DOM elements
+            const body = document.body;
+            const videoPlayer = document.getElementById('videoPlayer');
+            const snow = document.getElementById('snow');
+            const snowAudio = document.getElementById('snow-audio');
+            const videoDetails = document.getElementById('details');
+            const videoCategory = document.getElementById('category');
+            const videoTitle = document.getElementById('title');
+            const videoSubtitle = document.getElementById('subtitle');
+
+            // Track user interaction for audio (fallback for non-kiosk mode)
+            let userInteracted = true; // Assume kiosk mode with autoplay enabled
+
+            // Apply CRT effect if enabled
+            if (config.UI.CRT_EFFECT) {
+                body.classList.add('crt');
+            }
+
+            // Initialize snow audio
+            snowAudio.volume = 1;
+
+            // Snow functions
+            function showSnow(fixedLogo = false) {
+                if (!fixedLogo) {
+                    snow.classList.remove('white');
+                    if (Math.random() < 0.5) {
+                        snow.classList.add('white');
+                    }
+                }
+                snow.style.zIndex = 1;
+                snowAudio.volume = 1;
+            }
+
+            function hideSnow() {
+                snow.style.zIndex = -1;
+                snowAudio.volume = 0;
+            }
+
+            // Play random clip
+            async function playRandomClip() {
+                if (config.UI.VIDEO_DETAILS) {
+                    videoDetails.style.animation = 'none';
+                    videoCategory.style.animation = 'none';
+                }
+
+                showSnow();
+                videoPlayer.volume = 0;
+
+                try {
+                    const response = await fetch('/api/random-clip').then(res => res.json());
+
+                    if (response.error) {
+                        throw new Error(response.error);
+                    }
+
+                    const type = response.type;
+                    let startingBound = config.VIDEO.CROP_BOUNDS[type]?.START || 0;
+                    let endingBound = config.VIDEO.CROP_BOUNDS[type]?.END || 0;
+
+                    // Apply overrides if present
+                    if (config.VIDEO.OVERRIDES[response.id]) {
+                        startingBound = config.VIDEO.OVERRIDES[response.id].START ?? startingBound;
+                        endingBound = config.VIDEO.OVERRIDES[response.id].END ?? endingBound;
+                    }
+
+                    const duration = response.duration;
+                    let startTime;
+                    if (duration - (startingBound + endingBound) > 0) {
+                        startTime = Math.random() * (duration - (startingBound + endingBound) - config.VIDEO.CLIP_DURATION) + startingBound;
+                    } else {
+                        startTime = Math.floor(Math.random() * (duration - config.VIDEO.CLIP_DURATION));
+                    }
+
+                    // Wait for video to be ready before seeking
+                    await new Promise((resolve, reject) => {
+                        const onCanPlay = () => {
+                            videoPlayer.removeEventListener('canplay', onCanPlay);
+                            videoPlayer.removeEventListener('error', onError);
+                            resolve();
+                        };
+                        const onError = (e) => {
+                            videoPlayer.removeEventListener('canplay', onCanPlay);
+                            videoPlayer.removeEventListener('error', onError);
+                            reject(new Error('Failed to load video'));
+                        };
+                        videoPlayer.addEventListener('canplay', onCanPlay);
+                        videoPlayer.addEventListener('error', onError);
+                        videoPlayer.src = response.video;
+                        videoPlayer.load();
+                    });
+
+                    // Now seek to the desired time
+                    videoPlayer.currentTime = startTime;
+
+                    // Wait for seek to complete
+                    await new Promise((resolve) => {
+                        const onSeeked = () => {
+                            videoPlayer.removeEventListener('seeked', onSeeked);
+                            resolve();
+                        };
+                        videoPlayer.addEventListener('seeked', onSeeked);
+                    });
+
+                    setTimeout(async () => {
+                        try {
+                            videoPlayer.muted = false;
+                            await videoPlayer.play();
+                        } catch (e) {
+                            console.warn('Autoplay blocked, waiting for user interaction');
+                        }
+
+                        if (config.UI.VIDEO_DETAILS) {
+                            videoDetails.style.animation = `enterX ${config.VIDEO.CLIP_DURATION / 3}s forwards`;
+                        }
+
+                        // Set volume based on content type
+                        if (response.title.match(/(trailer|aftermovie)/ig)) {
+                            videoPlayer.volume = 0.3;
+                        } else {
+                            videoPlayer.volume = 1;
+                        }
+
+                        // Apply volume override if present
+                        if (config.VIDEO.OVERRIDES[response.id]?.VOLUME) {
+                            videoPlayer.volume = config.VIDEO.OVERRIDES[response.id].VOLUME;
+                        }
+
+                        hideSnow();
+                    }, config.VIDEO.SNOW_DURATION_MS);
+
+                    if (config.UI.VIDEO_DETAILS) {
+                        videoCategory.innerText = response.formatted.category || '';
+                        videoCategory.style.animation = `enterY ${config.VIDEO.CLIP_DURATION / 60}s ${config.VIDEO.CLIP_DURATION / 6}s ease-in-out forwards`;
+                        videoTitle.innerText = response.formatted.title;
+                        videoSubtitle.innerText = response.formatted.subtitle || '';
+                    }
+
+                    console.log(`Playing "${response.title}" (${response.id})`);
+                } catch (error) {
+                    console.error('Error playing random clip:', error);
+                }
+            }
+
+            // Start the player
+            async function start() {
+                // Start snow audio immediately (works in kiosk mode)
+                try {
+                    await snowAudio.play();
+                    console.log('Audio autoplay started');
+                } catch (e) {
+                    console.log('Audio autoplay blocked - not in kiosk mode');
+                    // Fallback: enable on user interaction
+                    const enableAudio = () => {
+                        videoPlayer.muted = false;
+                        snowAudio.play().catch(() => {});
+                        document.removeEventListener('click', enableAudio);
+                        document.removeEventListener('keydown', enableAudio);
+                    };
+                    document.addEventListener('click', enableAudio);
+                    document.addEventListener('keydown', enableAudio);
+                }
+
+                showSnow(true);
+
+                // Set 2s of snow, then start
+                let countdown = 2;
+
+                // Use countdown to count down, then play another random clip
+                setInterval(() => {
+                    if (countdown === 0) {
+                        countdown = config.VIDEO.CLIP_DURATION;
+                        playRandomClip();
+                    } else {
+                        countdown--;
+                    }
+                }, 1000);
+            }
+
+            // Start when page loads
+            start();
+        })();
+    </script>
 </body>
 </html>

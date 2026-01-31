@@ -49,8 +49,11 @@
       "videoId": "NntKlgK9CrI",
       "videoPublishedAt": "2025-10-22T13:05:42Z"
     },
-    "formattedTitle": "Stunfest 2025 Indies Trailer",
     "type": "stunfest",
+    "formatted": {
+      "category": "Stunfest",
+      "title": "2025 Indies Trailer"
+    },
     "duration": 172.384943
   },
   {
@@ -103,8 +106,12 @@
       "videoId": "t53lpKFTMfY",
       "videoPublishedAt": "2025-09-04T08:01:03Z"
     },
-    "formattedTitle": "Quitter l'industrie du jeu vidéo - Avec Simon Chatelus et Théo Vart | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Quitter l'industrie du jeu vidéo",
+      "subtitle": "Avec Simon Chatelus et Théo Vart"
+    },
     "duration": 5236.471293
   },
   {
@@ -157,8 +164,10 @@
       "videoId": "c7RkPYuznA8",
       "videoPublishedAt": "2025-07-20T16:01:02Z"
     },
-    "formattedTitle": "Les JEUX jazzy de la BBQ Jam 2025",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX jazzy de la BBQ Jam 2025"
+    },
     "duration": 2403.033107
   },
   {
@@ -211,8 +220,12 @@
       "videoId": "B9F2p83n1Dw",
       "videoPublishedAt": "2025-06-18T13:00:31Z"
     },
-    "formattedTitle": "Les choix CRUCIAUX du développeur - Avec Guillaume Tinon | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Les choix CRUCIAUX du développeur",
+      "subtitle": "Avec Guillaume Tinon"
+    },
     "duration": 4334.399274
   },
   {
@@ -265,8 +278,10 @@
       "videoId": "j1E4cqwnW5E",
       "videoPublishedAt": "2025-06-01T16:01:06Z"
     },
-    "formattedTitle": "Les JEUX de la JAM européenne : Babel Game Jam à Rennes",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX de la JAM européenne : Babel Game Jam à Rennes"
+    },
     "duration": 5596.05551
   },
   {
@@ -319,8 +334,10 @@
       "videoId": "sQxLDY8Epqk",
       "videoPublishedAt": "2025-05-06T08:27:13Z"
     },
-    "formattedTitle": "Aftermovie Babel Game Jam Rennes",
     "type": "jam",
+    "formatted": {
+      "title": "Aftermovie Babel Game Jam Rennes"
+    },
     "duration": 105.325714
   },
   {
@@ -373,8 +390,12 @@
       "videoId": "oALqNzz-WDk",
       "videoPublishedAt": "2025-04-22T13:01:27Z"
     },
-    "formattedTitle": "La SECRET SAUCE pour faire un JEU VIDÉO - Avec Vincent Beauzee | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "La SECRET SAUCE pour faire un JEU VIDÉO",
+      "subtitle": "Avec Vincent Beauzee"
+    },
     "duration": 6110.354286
   },
   {
@@ -427,8 +448,12 @@
       "videoId": "bK4mdDZ0UBo",
       "videoPublishedAt": "2025-02-25T13:30:23Z"
     },
-    "formattedTitle": "Retranscrire l'Histoire et la végétation dans les jeux vidéo - Avec Edwige Lelièvre | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Retranscrire l'Histoire et la végétation dans les jeux vidéo",
+      "subtitle": "Avec Edwige Lelièvre"
+    },
     "duration": 3699.902404
   },
   {
@@ -481,8 +506,10 @@
       "videoId": "5Nc7BoIMe7s",
       "videoPublishedAt": "2025-02-12T16:00:09Z"
     },
-    "formattedTitle": "Les JEUX de la Global Game Jam 2025",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX de la Global Game Jam 2025"
+    },
     "duration": 3383.704671
   },
   {
@@ -535,8 +562,10 @@
       "videoId": "xYhldq65jwI",
       "videoPublishedAt": "2025-02-06T16:00:57Z"
     },
-    "formattedTitle": "Les tiers-lists CLIVANTES de la GGJ 2025 : pâtes sauces pizzas jeux indés",
     "type": "jam",
+    "formatted": {
+      "title": "Les tiers-lists CLIVANTES de la GGJ 2025 : pâtes, sauces, pizzas, jeux indés..."
+    },
     "duration": 6865.026032
   },
   {
@@ -589,8 +618,12 @@
       "videoId": "rU1-JjIo2xs",
       "videoPublishedAt": "2024-12-28T09:01:00Z"
     },
-    "formattedTitle": "La création de FANGAMES et d'AVATARS pour VTUBERS - Avec Jérôme Bretheau (MonAmiral) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "La création de FANGAMES et d'AVATARS pour VTUBERS",
+      "subtitle": "Avec Jérôme Bretheau (MonAmiral)"
+    },
     "duration": 3469.943583
   },
   {
@@ -643,8 +676,10 @@
       "videoId": "HvKR3VWhhN0",
       "videoPublishedAt": "2024-11-02T16:00:20Z"
     },
-    "formattedTitle": "Les JEUX de l'OCTOJAM 2024  (et 0h game jam)",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX de l'OCTOJAM 2024  (et 0h game jam)"
+    },
     "duration": 3825.069569
   },
   {
@@ -697,8 +732,12 @@
       "videoId": "piFhkp1MpZI",
       "videoPublishedAt": "2024-10-05T16:30:19Z"
     },
-    "formattedTitle": "Revenir à un studio indé plus petit - Avec Adrien et Aurélien (Frog Collective) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Revenir à un studio indé plus petit",
+      "subtitle": "Avec Adrien et Aurélien (Frog Collective)"
+    },
     "duration": 3559.781587
   },
   {
@@ -751,8 +790,10 @@
       "videoId": "w9sVuS2PoZU",
       "videoPublishedAt": "2024-07-27T16:00:59Z"
     },
-    "formattedTitle": "Les JEUX créés pendant la BBQ JAM 2024 à la Maison du Jeu Vidéo",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX créés pendant la BBQ JAM 2024 à la Maison du Jeu Vidéo"
+    },
     "duration": 4040.063129
   },
   {
@@ -805,8 +846,12 @@
       "videoId": "xzw-1xBhtSA",
       "videoPublishedAt": "2024-07-02T16:01:01Z"
     },
-    "formattedTitle": "Plus créatif sous contraintes ? - Avec Guillaume Faure (MarechalBanane) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Plus créatif sous contraintes ?",
+      "subtitle": "Avec Guillaume Faure (MarechalBanane)"
+    },
     "duration": 4668.070023
   },
   {
@@ -859,8 +904,12 @@
       "videoId": "9viztjYEiXw",
       "videoPublishedAt": "2024-04-28T15:03:18Z"
     },
-    "formattedTitle": "Développeur de jeux indés depuis plus de 15 ans - Avec Damien Mayance (Pixelnest) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Développeur de jeux indés depuis plus de 15 ans",
+      "subtitle": "Avec Damien Mayance (Pixelnest)"
+    },
     "duration": 4028.546032
   },
   {
@@ -913,8 +962,12 @@
       "videoId": "JAByD4XDHaQ",
       "videoPublishedAt": "2024-03-16T09:00:22Z"
     },
-    "formattedTitle": "Porter un JEU sur CONSOLES - Avec Blanche Maurice (Console Programmer) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Porter un JEU sur CONSOLES",
+      "subtitle": "Avec Blanche Maurice (Console Programmer)"
+    },
     "duration": 4000.240907
   },
   {
@@ -967,63 +1020,11 @@
       "videoId": "XVY_BeZ67RE",
       "videoPublishedAt": "2024-02-29T16:00:32Z"
     },
-    "formattedTitle": "Les JEUX créés à la GLOBAL GAME JAM Rennes 2024",
     "type": "jam",
+    "formatted": {
+      "title": "Les JEUX créés à la GLOBAL GAME JAM Rennes 2024"
+    },
     "duration": 7425.114558
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "fnNgAT9A0e8JUdS08IYPzjcO8SU",
-    "id": "VVV2VXpTSVJDSVVsQ0F4ZDhOdHl6eHdRLmhQb2RDYmFYOTIw",
-    "snippet": {
-      "publishedAt": "2024-02-27T12:00:38Z",
-      "channelId": "UCvUzSIRCIUlCAxd8NtyzxwQ",
-      "title": "📌 Point d'avancement des projets de la GLOBAL GAME JAM Rennes 2024 🌍",
-      "description": "Point d'avancement des projets à mi-parcours de la Global Game Jam 2024, événement mondial de création de jeux en 48h et organisé à Rennes au Jardin Moderne.\n\nVoir la vidéo de lancement : https://youtu.be/ir2TvKyNDRw\nVoir la rediffusion de la restitution des projets : https://youtu.be/XVY_BeZ67RE\nBonus discussion crêpes et galette : https://youtu.be/a3KXWolJels\n\nIndie Collective est une association organisatrice d'événements sur Rennes autour de la création de jeux vidéo et s'est chargée de la co-organisation et de l'animation de cet événement. https://indieco.xyz\n\n🤙 Nous suivre et nous rejoindre :\nTwitter / X : https://twitter.com/IndieColle\nInstagram : https://www.instagram.com/indiecolle\nDiscord : https://discord.gg/Pdy2FhYwRf\n\nDiffusé le samedi 27 janvier 2024 sur https://www.twitch.tv/indiecollective\n\n#gamejam #indie #rennes #ggj #globalgamejam",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hPodCbaX920/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hPodCbaX920/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hPodCbaX920/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hPodCbaX920/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hPodCbaX920/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "Indie Collective",
-      "playlistId": "UUvUzSIRCIUlCAxd8NtyzxwQ",
-      "position": 19,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "hPodCbaX920"
-      },
-      "videoOwnerChannelTitle": "Indie Collective",
-      "videoOwnerChannelId": "UCvUzSIRCIUlCAxd8NtyzxwQ"
-    },
-    "contentDetails": {
-      "videoId": "hPodCbaX920",
-      "videoPublishedAt": "2024-02-27T12:00:38Z"
-    },
-    "formattedTitle": "Point d'avancement des projets de la GLOBAL GAME JAM Rennes 2024",
-    "type": "jam",
-    "duration": 2598.011066
   },
   {
     "kind": "youtube#playlistItem",
@@ -1075,8 +1076,10 @@
       "videoId": "a3KXWolJels",
       "videoPublishedAt": "2024-02-24T17:00:00Z"
     },
-    "formattedTitle": "Atelier GALETTES & CRÊPES pendant la GLOBAL GAME JAM Rennes",
     "type": "jam",
+    "formatted": {
+      "title": "Atelier GALETTES & CRÊPES pendant la GLOBAL GAME JAM Rennes"
+    },
     "duration": 2950.048798
   },
   {
@@ -1129,8 +1132,12 @@
       "videoId": "zQQA3Jhssow",
       "videoPublishedAt": "2024-02-03T09:00:48Z"
     },
-    "formattedTitle": "Ce que fait le Narrative Designer - Avec Alice David | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Ce que fait le Narrative Designer",
+      "subtitle": "Avec Alice David"
+    },
     "duration": 3464.556553
   },
   {
@@ -1183,8 +1190,12 @@
       "videoId": "9TFYYSwWIVQ",
       "videoPublishedAt": "2023-12-16T09:02:00Z"
     },
-    "formattedTitle": "Faire éditer son jeu vidéo - Avec Aziz Goumiri (Belette Team) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Faire éditer son jeu vidéo",
+      "subtitle": "Avec Aziz Goumiri (Belette Team)"
+    },
     "duration": 3979.203628
   },
   {
@@ -1237,8 +1248,10 @@
       "videoId": "vneJFZNbSU4",
       "videoPublishedAt": "2023-11-17T12:00:59Z"
     },
-    "formattedTitle": "Restitution des jeux de l'InJam France",
     "type": "jam",
+    "formatted": {
+      "title": "Restitution des jeux de l'InJam France"
+    },
     "duration": 6784.313469
   },
   {
@@ -1291,8 +1304,12 @@
       "videoId": "JsYnBOoGwuI",
       "videoPublishedAt": "2023-10-07T15:14:01Z"
     },
-    "formattedTitle": "Le statut particulier du jeu en France - Avec Sélène Tonon | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Le statut particulier du jeu en France",
+      "subtitle": "Avec Sélène Tonon"
+    },
     "duration": 4975.061043
   },
   {
@@ -1345,8 +1362,10 @@
       "videoId": "PyEe_Jws6rk",
       "videoPublishedAt": "2023-07-27T11:07:29Z"
     },
-    "formattedTitle": "Les jeux de la BBQ Jam",
     "type": "jam",
+    "formatted": {
+      "title": "Les jeux de la BBQ Jam"
+    },
     "duration": 3496.135692
   },
   {
@@ -1399,8 +1418,12 @@
       "videoId": "GwTUtYE0R_s",
       "videoPublishedAt": "2023-07-15T22:58:24Z"
     },
-    "formattedTitle": "Tenir jusqu'à la release de son jeu - Avec Anton & Nicolas (Bathyscaphe Studio) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Tenir jusqu'à la release de son jeu",
+      "subtitle": "Avec Anton & Nicolas (Bathyscaphe Studio)"
+    },
     "duration": 4226.449705
   },
   {
@@ -1453,8 +1476,12 @@
       "videoId": "kXjBSbxPsFk",
       "videoPublishedAt": "2023-06-17T08:00:08Z"
     },
-    "formattedTitle": "Les JEUX VIDÉO d'ARTE - Avec Adrien (ARTE France) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Les JEUX VIDÉO d'ARTE",
+      "subtitle": "Avec Adrien (ARTE France)"
+    },
     "duration": 3440.222041
   },
   {
@@ -1507,8 +1534,11 @@
       "videoId": "9RPFWTXmkhM",
       "videoPublishedAt": "2023-05-19T08:00:09Z"
     },
-    "formattedTitle": "Stunfest 2023 Indies Trailer",
     "type": "stunfest",
+    "formatted": {
+      "category": "Stunfest",
+      "title": "2023 Indies Trailer"
+    },
     "duration": 216.200998
   },
   {
@@ -1561,8 +1591,10 @@
       "videoId": "LjpBgYsAJJg",
       "videoPublishedAt": "2023-05-17T16:03:00Z"
     },
-    "formattedTitle": "Restitution des jeux de la Stunjam 2023",
     "type": "jam",
+    "formatted": {
+      "title": "Restitution des jeux de la Stunjam 2023"
+    },
     "duration": 3670.053152
   },
   {
@@ -1615,8 +1647,12 @@
       "videoId": "HCGL9MMAzmw",
       "videoPublishedAt": "2023-04-15T08:00:10Z"
     },
-    "formattedTitle": "La création d'un Visual Novel en Corée médiévale - Avec Alan (No More 500) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "La création d'un Visual Novel en Corée médiévale",
+      "subtitle": "Avec Alan (No More 500)"
+    },
     "duration": 3803.266032
   },
   {
@@ -1669,8 +1705,12 @@
       "videoId": "4rKcEqADyjY",
       "videoPublishedAt": "2023-03-04T09:00:10Z"
     },
-    "formattedTitle": "La place du libre dans le gamedev - Avec Cédric & Élisa (Activdesign) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "La place du libre dans le gamedev",
+      "subtitle": "Avec Cédric & Élisa (Activdesign)"
+    },
     "duration": 4114.390204
   },
   {
@@ -1723,8 +1763,10 @@
       "videoId": "z36XnekiNzI",
       "videoPublishedAt": "2023-02-11T18:00:25Z"
     },
-    "formattedTitle": "Restitution Global Game Jam 2023 de Rennes",
     "type": "jam",
+    "formatted": {
+      "title": "Restitution Global Game Jam 2023 de Rennes"
+    },
     "duration": 5262.129342
   },
   {
@@ -1777,8 +1819,12 @@
       "videoId": "hp0ibRhFfOk",
       "videoPublishedAt": "2023-01-28T09:00:07Z"
     },
-    "formattedTitle": "Créer des jeux en 48h ? - Avec @SushiFT5 (Jammer) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Créer des jeux en 48h ?",
+      "subtitle": "Avec SushiFT5 (Jammer)"
+    },
     "duration": 4155.071565
   },
   {
@@ -1831,8 +1877,12 @@
       "videoId": "CRcUDRJtUAk",
       "videoPublishedAt": "2022-12-17T09:00:09Z"
     },
-    "formattedTitle": "La voie d'un Sound Designer - Avec @TOMAvatars (Concrete Games) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "La voie d'un Sound Designer",
+      "subtitle": "Avec TOMAvatars (Concrete Games)"
+    },
     "duration": 3742.174331
   },
   {
@@ -1885,8 +1935,10 @@
       "videoId": "t7OMwdVPByY",
       "videoPublishedAt": "2022-11-05T18:05:00Z"
     },
-    "formattedTitle": "Octojam 2022 : Soirée de restitution",
     "type": "jam",
+    "formatted": {
+      "title": "Octojam 2022 : Soirée de restitution"
+    },
     "duration": 1971.09551
   },
   {
@@ -1939,8 +1991,12 @@
       "videoId": "3Cx67IWZV4E",
       "videoPublishedAt": "2022-10-22T08:00:13Z"
     },
-    "formattedTitle": "Monter une boîte dans le Jeu Vidéo - Avec Corto (Wild Wits Games) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Monter une boîte dans le Jeu Vidéo",
+      "subtitle": "Avec Corto (Wild Wits Games)"
+    },
     "duration": 3074.786395
   },
   {
@@ -1993,8 +2049,12 @@
       "videoId": "Fwz6EIxoxEA",
       "videoPublishedAt": "2022-09-24T08:00:27Z"
     },
-    "formattedTitle": "Une Maison du Jeu Vidéo à Rennes - Avec Basile (Piksel Club) | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Une Maison du Jeu Vidéo à Rennes",
+      "subtitle": "Avec Basile (Piksel Club)"
+    },
     "duration": 3177.557914
   },
   {
@@ -2047,8 +2107,11 @@
       "videoId": "ScQiXpl756A",
       "videoPublishedAt": "2022-05-18T22:47:16Z"
     },
-    "formattedTitle": "Stunfest 2022 Indies Trailer",
     "type": "stunfest",
+    "formatted": {
+      "category": "Stunfest",
+      "title": "2022 Indies Trailer"
+    },
     "duration": 204.103401
   },
   {
@@ -2101,8 +2164,12 @@
       "videoId": "Eh-X1yQ6Ouc",
       "videoPublishedAt": "2022-04-09T08:00:12Z"
     },
-    "formattedTitle": "Une communauté de création de jeux vidéo à Rennes - Avec Indie Collective | Indie & Co",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Une communauté de création de jeux vidéo à Rennes",
+      "subtitle": "Avec Indie Collective"
+    },
     "duration": 6000.105941
   },
   {
@@ -2155,8 +2222,10 @@
       "videoId": "P0kArna1QG0",
       "videoPublishedAt": "2022-02-20T09:00:08Z"
     },
-    "formattedTitle": "GGJ 2022 Rennes : Restitution",
     "type": "jam",
+    "formatted": {
+      "title": "GGJ 2022 Rennes : Restitution"
+    },
     "duration": 7293.039456
   },
   {
@@ -2209,8 +2278,10 @@
       "videoId": "BRg0h7wAxS8",
       "videoPublishedAt": "2021-12-26T08:00:04Z"
     },
-    "formattedTitle": "4D Jam : Restitution des projets au Théâtre National de Bretagne",
     "type": "jam",
+    "formatted": {
+      "title": "4D Jam : Restitution des projets au Théâtre National de Bretagne"
+    },
     "duration": 2667.810249
   },
   {
@@ -2263,8 +2334,10 @@
       "videoId": "Z2kjX1pggOA",
       "videoPublishedAt": "2021-12-11T08:00:09Z"
     },
-    "formattedTitle": "Présentation de l'association Indie Collective",
     "type": "misc",
+    "formatted": {
+      "title": "Présentation de l'association Indie Collective"
+    },
     "duration": 1560.055873
   },
   {
@@ -2317,8 +2390,12 @@
       "videoId": "dQVw3DSpjUQ",
       "videoPublishedAt": "2021-12-04T08:00:24Z"
     },
-    "formattedTitle": "Rétrospective : 10 ans de zone indé Stunfest",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Rétrospective : 10 ans de zone indé Stunfest",
+      "subtitle": ""
+    },
     "duration": 8761.492608
   },
   {
@@ -2371,8 +2448,12 @@
       "videoId": "Jxq_yPsgycQ",
       "videoPublishedAt": "2021-11-28T08:00:05Z"
     },
-    "formattedTitle": "Rétrospective : Rennes 10 ans de game jams",
     "type": "podcast",
+    "formatted": {
+      "category": "Indie & Co",
+      "title": "Rétrospective : Rennes, 10 ans de game jams",
+      "subtitle": ""
+    },
     "duration": 7324.572154
   },
   {
@@ -2425,8 +2506,10 @@
       "videoId": "qFA6zLZ2wAk",
       "videoPublishedAt": "2021-11-07T09:00:29Z"
     },
-    "formattedTitle": "Octojam 2021 : Soirée de restitution",
     "type": "jam",
+    "formatted": {
+      "title": "Octojam 2021 : Soirée de restitution"
+    },
     "duration": 2474.805986
   },
   {
@@ -2479,8 +2562,10 @@
       "videoId": "X5jux5HOuEY",
       "videoPublishedAt": "2021-06-03T17:00:12Z"
     },
-    "formattedTitle": "Stunjam 2021 - Soirée de restitution",
     "type": "jam",
+    "formatted": {
+      "title": "Stunjam 2021 - Soirée de restitution"
+    },
     "duration": 4230.582857
   },
   {
@@ -2533,8 +2618,10 @@
       "videoId": "TS1lmzneSmE",
       "videoPublishedAt": "2021-02-01T17:00:11Z"
     },
-    "formattedTitle": "Global Game Jam 2021 Rennes - Grande soirée de restitution",
     "type": "jam",
+    "formatted": {
+      "title": "Global Game Jam 2021 Rennes - Grande soirée de restitution"
+    },
     "duration": 9980.215147
   },
   {
@@ -2577,8 +2664,10 @@
       "videoId": "D7CWpMXPMp8",
       "videoPublishedAt": "2020-10-26T11:33:13Z"
     },
-    "formattedTitle": "OctoJam 2020 - Grande Soirée de Restitution",
     "type": "jam",
+    "formatted": {
+      "title": "OctoJam 2020 - Grande Soirée de Restitution"
+    },
     "duration": 1500.543129
   },
   {
@@ -2631,8 +2720,11 @@
       "videoId": "oeKlIFARXT8",
       "videoPublishedAt": "2015-05-20T22:54:54Z"
     },
-    "formattedTitle": "Stunfest 2015 Indies Trailer",
     "type": "stunfest",
+    "formatted": {
+      "category": "Stunfest",
+      "title": "2015 Indies Trailer"
+    },
     "duration": 64.040635
   },
   {
@@ -2685,8 +2777,11 @@
       "videoId": "nHdAftndfhE",
       "videoPublishedAt": "2014-05-11T15:00:22Z"
     },
-    "formattedTitle": "Stunfest 2014 Indies Trailer",
     "type": "stunfest",
+    "formatted": {
+      "category": "Stunfest",
+      "title": "2014 Indies Trailer"
+    },
     "duration": 225.0478
   }
 ]

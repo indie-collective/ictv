@@ -28,7 +28,7 @@ module.exports = {
     // Server configuration
     SERVER: {
         PORT: process.env.PORT || 3000,
-        HOST: 'localhost',
+        HOST: '0.0.0.0',
     },
 
     // UI settings
