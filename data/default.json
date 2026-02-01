@@ -166,6 +166,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX jazzy de la BBQ Jam 2025"
     },
     "duration": 2403.033107
@@ -280,6 +281,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX de la JAM européenne : Babel Game Jam à Rennes"
     },
     "duration": 5596.05551
@@ -336,6 +338,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Aftermovie Babel Game Jam Rennes"
     },
     "duration": 105.325714
@@ -508,6 +511,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX de la Global Game Jam 2025"
     },
     "duration": 3383.704671
@@ -564,6 +568,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les tiers-lists CLIVANTES de la GGJ 2025 : pâtes, sauces, pizzas, jeux indés..."
     },
     "duration": 6865.026032
@@ -678,6 +683,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX de l'OCTOJAM 2024  (et 0h game jam)"
     },
     "duration": 3825.069569
@@ -792,6 +798,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX créés pendant la BBQ JAM 2024 à la Maison du Jeu Vidéo"
     },
     "duration": 4040.063129
@@ -1022,6 +1029,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les JEUX créés à la GLOBAL GAME JAM Rennes 2024"
     },
     "duration": 7425.114558
@@ -1078,6 +1086,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Atelier GALETTES & CRÊPES pendant la GLOBAL GAME JAM Rennes"
     },
     "duration": 2950.048798
@@ -1250,6 +1259,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Restitution des jeux de l'InJam France"
     },
     "duration": 6784.313469
@@ -1364,6 +1374,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Les jeux de la BBQ Jam"
     },
     "duration": 3496.135692
@@ -1593,6 +1604,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Restitution des jeux de la Stunjam 2023"
     },
     "duration": 3670.053152
@@ -1765,6 +1777,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Restitution Global Game Jam 2023 de Rennes"
     },
     "duration": 5262.129342
@@ -1937,6 +1950,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Octojam 2022 : Soirée de restitution"
     },
     "duration": 1971.09551
@@ -2224,6 +2238,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "GGJ 2022 Rennes : Restitution"
     },
     "duration": 7293.039456
@@ -2280,6 +2295,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "4D Jam : Restitution des projets au Théâtre National de Bretagne"
     },
     "duration": 2667.810249
@@ -2448,9 +2464,9 @@
       "videoId": "Jxq_yPsgycQ",
       "videoPublishedAt": "2021-11-28T08:00:05Z"
     },
-    "type": "podcast",
+    "type": "jam",
     "formatted": {
-      "category": "Indie & Co",
+      "category": "Jam",
       "title": "Rétrospective : Rennes, 10 ans de game jams",
       "subtitle": ""
     },
@@ -2508,6 +2524,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Octojam 2021 : Soirée de restitution"
     },
     "duration": 2474.805986
@@ -2564,6 +2581,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Stunjam 2021 - Soirée de restitution"
     },
     "duration": 4230.582857
@@ -2620,6 +2638,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "Global Game Jam 2021 Rennes - Grande soirée de restitution"
     },
     "duration": 9980.215147
@@ -2666,6 +2685,7 @@
     },
     "type": "jam",
     "formatted": {
+      "category": "Jam",
       "title": "OctoJam 2020 - Grande Soirée de Restitution"
     },
     "duration": 1500.543129

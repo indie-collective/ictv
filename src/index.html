@@ -38,16 +38,13 @@
             const videoTitle = document.getElementById('title');
             const videoSubtitle = document.getElementById('subtitle');
 
-            // Track user interaction for audio (fallback for non-kiosk mode)
-            let userInteracted = true; // Assume kiosk mode with autoplay enabled
-
             // Apply CRT effect if enabled
             if (config.UI.CRT_EFFECT) {
                 body.classList.add('crt');
             }
 
             // Initialize snow audio
-            snowAudio.volume = 1;
+            snowAudio.volume = 0.3;
 
             // Snow functions
             function showSnow(fixedLogo = false) {
@@ -58,7 +55,7 @@
                     }
                 }
                 snow.style.zIndex = 1;
-                snowAudio.volume = 1;
+                snowAudio.volume = 0.3;
             }
 
             function hideSnow() {
@@ -194,6 +191,13 @@
 
                 // Set 2s of snow, then start
                 let countdown = 2;
+
+                // Skip to next clip on 'N' key press
+                document.addEventListener('keydown', (e) => {
+                    if (e.key === 'n' || e.key === 'N') {
+                        countdown = 0;
+                    }
+                });
 
                 // Use countdown to count down, then play another random clip
                 setInterval(() => {

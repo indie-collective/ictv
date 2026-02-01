@@ -39,7 +39,7 @@ module.exports = {
 
     // VIDEO settings
     VIDEO: {
-        CLIP_DURATION: 30,
+        CLIP_DURATION: 60,
         SNOW_DURATION_MS: 500,
 
         CROP_BOUNDS: {
