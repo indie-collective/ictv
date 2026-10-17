@@ -185,18 +185,18 @@ local function layout_details(f)
     L.category = f.category and f.category ~= '' and ass_escape(f.category) or nil
 
     L.title_fs, L.sub_fs, L.cat_fs = 1.5 * rem, 1.1 * rem, 1.25 * rem
-    L.text_x = inset
+    L.text_x = inset + 30
 
     local tw = text_width(L.title, L.title_fs, '\\b600')
     local sw = L.subtitle and text_width(L.subtitle, L.sub_fs, '\\i1') or 0
-    L.box_w = inset + math.max(tw, sw) + rem
+    L.box_w = inset + 30 + math.max(tw, sw) + rem
     L.box_h = rem + L.title_fs * LINE_HEIGHT
         + (L.subtitle and 0.25 * rem + L.sub_fs * LINE_HEIGHT or 0)
-    L.box_y = H * 0.96 - L.box_h
+    L.box_y = H * 0.92 + 20 - L.box_h
     L.width = L.box_w
 
     if L.category then
-        L.cat_x = inset
+        L.cat_x = inset + 30
         L.cat_w = text_width(L.category, L.cat_fs, '\\b700') + rem
         L.cat_h = L.cat_fs * LINE_HEIGHT
         L.width = math.max(L.width, L.cat_x + L.cat_w + rem)

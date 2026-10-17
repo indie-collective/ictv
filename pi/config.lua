@@ -10,7 +10,7 @@ return {
         CRT_EFFECT = true,
         VIDEO_DETAILS = true,
         FONT = 'Montserrat',
-        TEXT_SCALE = 1.0,       -- 1.0 = same size as the browser version at 1080p
+        TEXT_SCALE = 1.6,       -- 1.0 = same size as the browser version at 1080p
         PRIMARY_COLOR = '#054d43',
         SECONDARY_COLOR = '#149c88',
     },
