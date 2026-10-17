@@ -15,10 +15,11 @@ This application is a web-based video player that displays random clips from You
 - Cross-platform support (Windows, macOS, Linux)
 - Kiosk mode with auto-launch script
 - Accessible over local network
+- Lightweight Raspberry Pi player (mpv, no Node or browser at runtime), see [`pi/`](pi/README.md)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Jeremy-Bell/ictv.git`
+1. Clone the repository: `git clone https://github.com/indie-collective/ictv.git`
 2. Install dependencies: `cd ictv && npm install`
 3. Create a `.env` file in the root directory of the project and add the following variables:
 
@@ -111,6 +112,17 @@ The following environment variables can be set:
 
 ### Blacklisting Videos
 To exclude specific videos, add their YouTube video IDs to the `VIDEOS_BLACKLIST` array in the `SETUP` section.
+
+## Raspberry Pi (mpv edition)
+
+For a dedicated Raspberry Pi 4 screen there is a player built on mpv, a Lua script and ffmpeg. It needs no Node, browser or web server at runtime and reads the same `data/` and `videos/` folders as the web version.
+
+```bash
+pi/install.sh --autostart   # install mpv/ffmpeg, render assets, start on boot
+pi/ictv.sh                  # or run it by hand
+```
+
+Settings (clip length, CRT effect, title ribbon size) live in `pi/config.lua`. See [`pi/README.md`](pi/README.md) for details.
 
 ## Browser Requirements
 

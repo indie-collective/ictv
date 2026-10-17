@@ -48,7 +48,14 @@ Keys: `n` next clip, `q` quit.
 Settings are in `pi/config.lua`: clip length, crop bounds, per-video overrides, CRT effect, overlay on/off and text scale.
 Player tuning (hwdec, scaling) is in `pi/mpv/mpv.conf`. It is loaded with `--config-dir`, so your personal mpv config is not used.
 
+## Tuning the title ribbon
+
+- Size: `UI.TEXT_SCALE` in `pi/config.lua` scales the title, subtitle and category tab together (1.0 is the browser size at 1080p; 1.6 reads well on a TV).
+- Position: in `layout_details()` in `pi/mpv/scripts/ictv/main.lua`, `box_y` sets the bottom edge and the `+ 30` on `text_x`, `cat_x` and `box_w` shifts the text right, clear of the CRT bezel. Values are pixels at 1080p.
+
 ## Notes
+
+- Only one program can drive a GPU's display output at a time (DRM master). Both HDMI ports of a Pi 4 share one device, so running a second `--gpu-context=drm` mpv on the other port breaks ICTV. Use a compositor if you need two screens.
 
 - The title overlay is a subtitle track and the CRT effect is an overlay image drawn above it, so the bezel covers the left end of the title box as in the browser version. A GLSL shader would cost a full-screen GPU pass per frame, which drops frames on a Pi 4.
 - 60 fps files drop frames on a Pi 4 as soon as anything is drawn over the video. Use `pi/transcode.sh` (30 fps) for smooth playback.
