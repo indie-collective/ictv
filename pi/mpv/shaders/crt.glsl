@@ -7,7 +7,7 @@
 
 #define SCANLINE_DARKEN 0.5625  // two stacked rgba(0,0,0,.25) lines
 #define TINT_STRENGTH 0.06      // red/blue stripe alpha (green is a third of it)
-#define VIGNETTE_START 0.6
+#define VIGNETTE_START 0.82
 #define BEZEL_RADIUS 0.12       // corner radius, in half-heights
 
 vec4 hook() {
@@ -32,8 +32,8 @@ vec4 hook() {
 
     // Bezel: rounded opening whose edges bow outwards towards the middle
     vec2 ap = abs(uv * 2.0 - 1.0);
-    vec2 inner = vec2(1.0 - 2.0 * (0.028 + 0.015 * ap.y * ap.y),
-                      1.0 - 2.0 * (0.0225 + 0.018 * ap.x * ap.x));
+    vec2 inner = vec2(1.0 - 2.0 * (0.014 + 0.008 * ap.y * ap.y),
+                      1.0 - 2.0 * (0.011 + 0.009 * ap.x * ap.x));
     float aspect = HOOKED_size.x / HOOKED_size.y;
     vec2 q = ap / inner * vec2(aspect, 1.0);
     vec2 e = q - (vec2(aspect, 1.0) - BEZEL_RADIUS);

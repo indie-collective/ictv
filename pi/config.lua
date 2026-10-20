@@ -15,6 +15,12 @@ return {
         SECONDARY_COLOR = '#149c88',
     },
 
+    AUDIO = {
+        NORMALIZE = true,       -- per-clip gain from pi/cache/loudness.tsv (run pi/measure-loudness.sh)
+        TARGET_LUFS = -16,
+        MAX_BOOST_DB = 12,
+    },
+
     VIDEO = {
         CLIP_DURATION = 60,
         SNOW_DURATION_MS = 500,
